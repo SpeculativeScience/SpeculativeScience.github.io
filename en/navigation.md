@@ -21,31 +21,36 @@
 
 [About](pages/about.md)
 
-# Preface
-[What is Reason?](pages/reason.md)
-[The Speculative Method](pages/method.md)
-[Presuppositionlessness](pages/presuppositionlessness.md)
-[Sublation](pages/sublation.md)
-[Absolute Idealism](pages/idealism.md)
+[Preface]()
 
-# Being
-[Quality](pages/quality.md)
-[Quantity](pages/quantity.md)
-[Measure](pages/measure.md)
+  [What is Reason?](pages/reason.md)
+  [The Speculative Method](pages/method.md)
+  [Presuppositionlessness](pages/presuppositionlessness.md)
+  [Sublation](pages/sublation.md)
+  [Absolute Idealism](pages/idealism.md)
 
-# Essence
-[Reflection](pages/reflection.md)
-[Appearance](pages/appearance.md)
-[Actuality](pages/actuality.md)
+[Being]()
 
-# Concept
-[Subjectivity](pages/subjectivity.md)
-[Objectivity](pages/objectivity.md)
-[Idea](pages/idea.md)
+  [Quality](pages/quality.md)
+  [Quantity](pages/quantity.md)
+  [Measure](pages/measure.md)
 
-# Essays
-[Nature]
-[Psychology]
+[Essence]()
+
+  [Reflection](pages/reflection.md)
+  [Appearance](pages/appearance.md)
+  [Actuality](pages/actuality.md)
+
+[Concept]()
+
+  [Subjectivity](pages/subjectivity.md)
+  [Objectivity](pages/objectivity.md)
+  [Idea](pages/idea.md)
+
+[Essays]()
+
+  [Nature]()
+  [Psychology]()
 
 <!-- A more complex navigation example: ----------------------------------------
 
