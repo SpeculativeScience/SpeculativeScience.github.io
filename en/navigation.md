@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](bootstrap)
 
 
 <!--
@@ -23,34 +23,35 @@
 
 [Preface]()
 
-  [What is Reason?](pages/reason.md)
-  [The Speculative Method](pages/method.md)
-  [Presuppositionlessness](pages/presuppositionlessness.md)
-  [Sublation](pages/sublation.md)
-  [Absolute Idealism](pages/idealism.md)
+  * [What is Reason?](pages/reason.md)
+  * [The Speculative Method](pages/method.md)
+  * [Presuppositionlessness](pages/presuppositionlessness.md)
+  * [Sublation](pages/sublation.md)
+  * [Absolute Idealism](pages/idealism.md)
 
 [Being]()
 
-  [Quality](pages/quality.md)
-  [Quantity](pages/quantity.md)
-  [Measure](pages/measure.md)
+  * [Quality](pages/quality.md)
+  * [Quantity](pages/quantity.md)
+  * [Measure](pages/measure.md)
 
 [Essence]()
 
-  [Reflection](pages/reflection.md)
-  [Appearance](pages/appearance.md)
-  [Actuality](pages/actuality.md)
+  * [Reflection](pages/reflection.md)
+  * [Appearance](pages/appearance.md)
+  * [Actuality](pages/actuality.md)
 
 [Concept]()
 
-  [Subjectivity](pages/subjectivity.md)
-  [Objectivity](pages/objectivity.md)
-  [Idea](pages/idea.md)
+  * [Subjectivity](pages/subjectivity.md)
+  * [Objectivity](pages/objectivity.md)
+  * [Idea](pages/idea.md)
 
 [Essays]()
 
-  [Nature]()
-  [Psychology]()
+  * [Nature]()
+  * [Psychology]()
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
