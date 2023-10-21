@@ -1,5 +1,7 @@
 # Reflection
 
+[Page Under Construction]
+
 ```
 Essence ⧁ Shine ⟹ Identity
 
@@ -12,7 +14,7 @@ Essence is what is reflected in the world of Being (Shine) and Shine is the refl
 
 Essence is the Identity of the Shine because it identifies what the Shine is by reflecting itself in it. However, Essence is only able to reflect itself because it is distinct from the Shine. The Shine is the Difference of Essence since Essence is not, or is distinct from, the Shine. 
 
-Think Plato's Cave: Essence is the object itself (identity) and Shine is the shadow of the object that is cast on the wall (difference).
+Think of Plato's Cave: Essence is the object itself (identity) and Shine is the shadow of the object that is cast on the wall (difference).
 
 ```
 Identity ⧁ Difference ⟹ Positive

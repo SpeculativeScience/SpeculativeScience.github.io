@@ -1,7 +1,5 @@
 # Quality
 
-[Page Under Construction]
-
 ## Being
 
 ```
@@ -26,8 +24,8 @@ Being and Nothing appear to be one in the same since the context of everything i
 ```
 Being-there
 Negation
-[ Being-there → Negation ] ⟹ Something
-[ Being-there ← Negation ] ⟹ Other
+[ Being-there → Negation ] ⟹ Other
+[ Being-there ← Negation ] ⟹ Something
 [ Being-there ⇄ Negation ] ⟹ Something/Other
 Something/Other ⟹ Being-for-Other
 ```
@@ -40,20 +38,18 @@ Being-in-Itself
 [ Being-for-Other → Being-in-Itself ] ⟹ Determination
 [ Being-for-Other ← Being-in-Itself ] ⟹ Constitution
 [ Being-for-Other ⇄ Being-in-Itself ] ⟹ Limit
+Limit ⟹ Finite
 ```
-
-[Marked for Revision]
 
 The Something and Other are other to each other, which is their relationship of Being-for-Other. They are what they are by not being the other. However, what is other to Being-for-Other is Being-in-Itself. 
 
-Otherness which is internal to itself is Determination, whereas otherness which is external to itself is Constitution. The externality and internality between Something and Other implies their mutual non-being, or Limit.
+Otherness that is internal is Determination, whereas otherness that is external is Constitution. The externality and internality between Something and Other implies their mutual non-being, or Limit.
 
 The Limit is what determines the existence of finite beings. Finitude is not eternal, something finite has no reality of its own since it will change into something else. It determines the moment of alteration where something becomes something else. Qualitative change, therefore, is the process of “othering”, something as endlessly going beyond what it was originally.
 
 ```
 Finite
-Finite → Finite → Finite → … ⟹ Spurious Infinite
-Finite ⇄ Finite ⟹ True Infinite
+Finite ⇄ Finite
 True Infinite ( Spurious Infinite )
 ```
  
@@ -61,7 +57,7 @@ The co-determination of Being-in-Itself and its Limit is the Finite.
 
 In the alteration of something into an-other, it attempts to beyond itself and unite with itself - put another way, it aims for Infinity. However, this so-called “Infinite” is just an endless repetition of finite beings entering in and out of existence. Worse, this very alternation between finite beings is without end is itself finite.
 
-The True Infinite recollects and encompasses the something-others. It is negates this spurious process of negation because there is nothing other to it - it is Being-for-Itself.
+The True Infinite recollects and encompasses the something-others. It negates this spurious process of negation because there is nothing other to it - it is Being-for-Itself.
      
 
 ## Being-for-Itself
@@ -69,15 +65,13 @@ The True Infinite recollects and encompasses the something-others. It is negates
 ```
 Being-for-Itself ( Being-for-One )
 One ( Many )
-[ One → Many ] ⟹ Repulsion
-[ One ← Many ] ⟹ Attraction
-[ One ⇄ Many ] ⟹ Quantity
-One ⟹ Discrete
-Many ⟹ Continuous
+[ One → ( Many ) ] ⟹ Repulsion
+[ One ← ( Many ) ] ⟹ Attraction
+[ One ⇄ ( Many ) ] ⟹ Quantity
 ```
 
 Since Being-for-Itself has nothing other to it, it is One.
 
 The One gets its determinacy, or shown to be a finite determination of thought, through its repulsion of the Many. When the One distinguishes itself from the Many, it also repulses itself from itself. The Many comprises the One, so when the One repulses the Many it repulses itself as the Many. If hen you tried to have a One by as an independent entity that transcends its parts or something-others, what you get is atomism as a logical conclusion, in which what you thought was an all-inclusive One is actually a bunch of Ones (which aren't One, they're Many).
 
-Quantity is immanently derived once the problem of Being-for-Itself has been exposed. That is, for a quality to be "for itself" implies the exclusion of otherness so that it can be itself. This excluded otherness is pure quantity, yet this pure quantity is indeterminate because it is not for itself. So the only way to make quantity determinate is to assign content to it from the outside, which is determined by a mathematician.
+Quantity is immanently derived once the problem of Being-for-Itself has been exposed. That is, for a quality to be "for itself" implies the exclusion of otherness so that it can be itself. This excluded otherness is pure quantity, yet this pure quantity is indeterminate because it is not for itself. 

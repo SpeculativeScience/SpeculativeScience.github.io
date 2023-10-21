@@ -1,63 +1,58 @@
 # Appearance
 
-[Page Under Construction]
-
 ## Existence
 
 ```
-Existence ( Ground/Grounded ⟲ Ground/Grounded )
+Grounded ( Ground )
 
-Thing ( Properties )
+Properties ( Thing )
 
 Thing ( Matters )
 
-Thing ⟹ One Form
+Content ( Form ) ⟹ Existing-Essence
 
-Matters ⟹ One Content
+Form ( Content ) ⟹ Appearance
 
-One Content ⧁ One Form
-
-Content ⟹ World-in-Itself
-
-Form  ⟹ World-of-Appearance
+Existing-Essence ⧁ Appearance
 ```
 
-Things are an immediate moment of existence that embraces the process of Ground and Grounded. Things contain Properties that are reflected into each other, and the Thing is their Ground for their existence. Through inward reflection, the Properties are shown to be Matters, which have a relative degree of independence from the Thing, but still require for their mutual reflection. There is no Matter without a Thing, so Matter is not the Things themselves. 
+Existence is a concept that subsumes Essence, Shine and their relationship of Ground.
+
+Properties are Grounded in the Thing, which is its Ground. While Things have Properties, they are not inherent to the Thing, which is to say that the Thing remains what it is even if its Properties change. The Thing requires Properties for it exist, but the Properties do not determine the Thing.
+
+For the Thing to be determined, the relationship of Ground is reversed. The Thing is now what is Grounded, and its Ground are its Matters. The Matters are what give the Thing its presence or being-there and the Thing is how the Matters are organized or structured. The Matters require the Thing for them to exist, but the Thing does not determine its Matters. The Thing is now the Form of the Matters.
+
+Since Form is the structure that brings the Matters together, the Matters are unified as one Matter. However, the one Matter is distinctionless on its own, so it depends on Form to determine its logical relationships (which divides up the one Matter into its Matters). Hence, Form and Matter are identical in Content. Matter has Form for its Content and Form has Matter for its Content. In each having the other for its Content, they are externally distinct, but internally the same.
+
+The presentation of the Matter as Form and the Form in which the Matters are presented define a new kind of relationship. The Matter is an essence that exists, an Existing-Essence, whereas the Form is a shine that exists, an Appearance.
 
 ## Appearance
 
 ```
-World-in-Itself ⧁ World-of-Appearance
+Existing-Essence ⧁ Appearance
 
-World-in-Itself ⧁ Appearance ( Law of Appearance ( Matters ) ) 
+Existing-Essence ⧁ World of Appearance ( Appearances )
 
-Appearance ( ~~Matters~~ ) ⟹ Form
+Existing-Essence ⧁ World of Appearance ( ~~ Appearances ~~ ) ⟹ External Form
 
-~~Appearance~~ ( Matters ) ⟹ Content
+Existing-Essence ⧁ ~~ World of Appearance ~~ ( Appearances ) ⟹ External Content
 
-World-in-Itself ⧁ ( Form – Content ) 
-
-World-in-Itself ⟹ Whole
-
-( Form – Content ) ⟹ Parts
+Existing-Essence ⧁ Appearances ⟹ Whole ⧁ Parts
 ```
 
-The word appearance tends to carry a negative connotation in common parlance. This is not accidental, as the “fake” appearance is conceptualized as what opposes “real” existence. However, it is a mistake to think of appearance as necessarily false in its being since the essence of a concept has to first appear through its appearance to even be known. To even know that something exists, you first have to observe it. What we see as appearance is still valuable information, but the process of reasoning about what really exists does not end here. Appearance must also disappear to reveal what was actually happening. What is revealed is the unchanging law which governs changing appearances of Things and their properties.
+For an Existing-Essence to exist, it must first appear. The Appearance contains Matters, which are the fragments that comprise the Existing-Essence. The Existing-Essence and its Matters are identical in Content, but the Matters are also the Content of Appearance, so they are also Appearances themselves. But if the Matters are Appearances, then what we have been calling Appearance is the World of Appearance, or the unified process of Appearances as a totality. 
 
-Laws are significant here precisely because they are what endures after appearance disappears. However, what law accounts for is the Form of the Thing and not its Content, which is exactly what varies across appearances. The failure of law to account for variation implies that it is inessential, an appearance that must also self-erase. Law and Appearance are subject to a higher law, the Law of Law and Appearance, which states that the only constant is variation. With the introduction of this law, the world splits in two, the World of Appearance and the World-in-Itself.
+Since the World of Appearance is a unified process, its Form becomes its Content. The Form of the World of Appearance is the Law of Appearance. Though, Law of Appearance only appears when an Appearance has disappeared, so the Law of Appearance is an Appearance like any other. Now, the Content of the World of Appearance is the appearance and disappearance of Laws. Each Appearance has a Form and Content of its own, none of which are reflected in the World of Appearance. And so, because the World of Appearance is no longer determined, it has disappeared.
 
-The World of Appearance is full of content and variety, showing that it is invariant is its variation, but offers no explanation as to why or how variation exists. The World-in-Itself is conceived of as the stable counterpart to the World of Appearance, claiming to offer the right explanation for the observed phenomenon which has appeared. However, if what appears is inessential and different from what is actually the case, then everything that exists in the World of Appearance must be the opposite of what exists in the World-in-Itself. This suggests that what is real is actually the inverted image of what appears. The movement of thought spuriously alternates between experience and imagination, not knowing which conceals the essence of what is real. This dilemma is resolved when thought realizes that both are necessary to understanding. The two worlds are revealed to be dual moments of one and the same world – the rational is real and the real is rational. What persists, in essence, is the Essential Relation between the content and form of both worlds.
+Now that the World of Appearance has vanished, the Existing-Essence and the Appearances must be redefined. The Existing-Essence is no longer what appears since it has nothing to appear in, whereas the Appearances are not really Appearances anymore since there is no longer a World of Appearance to determine them as Appearances. The Existing-Essence and Appearances are identical in Content and Form, the only thing distinguishing them is that the Appearances are a multiplicity and the Existing-Essence is not. Existing-Essence is the Whole and the Appearances are its Parts.
+
 
 ## Essential Relation
 
 ```
-Whole ⧁ Parts 
-
 Whole ⧁ Parts ⟹ Force
 
 Whole ⧀ Parts ⟹ Expression
-
-Force ⧁ Expression
 
 Force ⧁ Expression ⟹ Inner
 
@@ -66,6 +61,11 @@ Force ⧀ Expression ⟹ Outer
 Inner ⟲ Outer 
 ```
 
-The structural relationship of Correlation is a mediation between the Whole and its Parts. Everything that exists is both a Whole which is made of Parts and a Part which comprises a Whole. It might seem like the Whole and its Parts are independent from each other, but one cannot be defined without defining the other. A Whole is certainly equivalent to the sum of its Parts, but it is not identical to the Whole. If the Whole and its Parts only were identical to themselves, but could not express their equivalence tautologically, then both concepts lose their meaning.
+The Whole is its Parts and the Parts are the Whole. The Whole can only be identified as distinct from its Parts if its Parts are excluded from it. This act of excluding that determines the Whole is the Force and the Parts that are excluded from the Whole is the Expression of the Force. However, if the Parts are excluded from the Whole, then this implies that the Parts were already *part* of the Whole to begin with. The Expression implies its Force, but this Force likewise implies another Force that solicited it. But what solicited the solicited Force was the Expression itself, since the Expression was the excluded Parts.
 
-The relationship between the Whole and its Parts only partially captures the essence of a concept. It can only state that there is a Whole which is divisible into Parts, but explains neither how or why Whole is divisible. Similarly, the Parts are simply stated to constitute the Whole, but we have no knowledge of how the Parts are supposed fit together or why. Furthermore, the lack of clarity as to what Part is not the Whole and what Whole is not the Part makes the relationship of Correlation fall prey to Limitlessness. The unstable and indeterminate relationship of Correlation is made stable and determinate by introducing a new relationship which includes it and goes beyond – the Force and its Expression.
+Now, the Force is its Expression and the Expression is its Force. Like before, the (genuine) Force can only be distinct from its Expression if its Expression is excluded from it. However, exclusion is the very characteristic that determines Expression, so Force includes Expression. At the same time, however, the Expression is distinguished by being excluded from Force, but being excluded is what characterizes the Force, so Expression includes Force. Each maintains their identity through their difference, the Force returning to itself as reflection-into-self or Inner and Expression returning to itself as reflection-into-other, or Outer.
+
+
+
+
+

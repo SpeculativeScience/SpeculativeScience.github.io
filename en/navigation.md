@@ -47,10 +47,41 @@
   * [Objectivity](pages/objectivity.md)
   * [Idea](pages/idea.md)
 
-[Essays]()
+[Mechanics]()
 
-  * [Nature]()
-  * [Psychology]()
+  * [Extension](pages/extension.md)
+  * [Dynamics](pages/mechanics.md)
+  * [Gravity](pages/gravity.md)
+
+[Physics]()
+
+  * [Light](pages/light.md)
+  * [Quantum](pages/quantum.md)
+  * [Chemistry](pages/chemistry.md)
+
+[Organism]()
+
+  * [Terrestrial](pages/earth.md)
+  * [Vegetative](pages/plants.md)
+  * [Animal](pages/animals.md)
+
+[Mind]()
+
+  * [Anthropology](pages/mind.md)
+  * [Phenomenology](pages/phenomenology.md)
+  * [Psychology](pages/psychology.md)
+
+[Justice]()
+
+  * [Right](pages/right.md)
+  * [Morality](pages/morality.md)
+  * [Ethical Life](pages/ethics.md)
+
+[The Absolute]()
+
+  * [Aesthetics]()
+  * [Theology]()
+  * [Philosophy]()
 
 
 <!-- A more complex navigation example: ----------------------------------------
