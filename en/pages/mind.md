@@ -2,21 +2,26 @@
 
 [Page Under Construction]
 
-## Natural Mind
+## Sentience (Natural Soul)
 
-- Natural Qualities
+- Self-Internality
 
-- Natural Changes
+- Alteration
 
 - Awareness
 
-## Feeling Mind
+## Psyche (Feeling Soul)
 
-- Feeling
+- Emotion
 
 - Sense of Self
 
 - Habit
 
-## The Ego
+## The Ego (Actual Soul)
 
+- Instinct
+
+- Inhibition 
+
+- The "I"

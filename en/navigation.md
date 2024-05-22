@@ -50,7 +50,7 @@
 [Mechanics]()
 
   * [Extension](pages/extension.md)
-  * [Dynamics](pages/mechanics.md)
+  * [Dynamics](pages/dynamics.md)
   * [Gravity](pages/gravity.md)
 
 [Physics]()

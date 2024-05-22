@@ -1,33 +1,43 @@
 # Psychology
 
-[Page Under Construction]
-
 ## Intellect
 
-- Presentation
-    - Sensation
-    - Attention
-    - Intuition
+### Sensibility
 
-- Representation
-    - Recognizing
-    - Imagination
-        - Recollective
-        - Associative
-        - Semiotic (Language)
-    - Memory
+- Sensation
 
-- Thinking
-    - Conceptualizing
-    - Judging
-    - Inferring
+- Attention
+
+- Intuition
+
+### Representation
+
+- Recollection
+
+- Imagination
+
+- Memory
+
+### Judgmentation
+
+- Determining Judgment
+
+- Reflective Judgment
+
+- Practical Judmgent 
 
 ## Will
 
-- Value
+- Proclivity
 
-- Motivation
+- Valuation
 
 - Happiness
 
-## Freedom
+## Personality
+
+- Type
+
+- Quadrality
+
+- Free Individuality

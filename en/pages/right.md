@@ -4,11 +4,11 @@
 
 ## Property
 
-- Acquisition
+- Ownership
 
 - Use
 
-- Relinquishment
+- Alienability
 
 ## Contract
 
@@ -18,10 +18,10 @@
 
 - Pledge
 
-## Injustice
+## Law
 
-- Civil Wrong
+- Civil Injustice
 
-- Fraud
+- Criminal Injustice
 
-- Crime
+- Moral Will

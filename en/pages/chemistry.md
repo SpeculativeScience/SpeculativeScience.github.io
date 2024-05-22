@@ -1,45 +1,27 @@
 # Chemistry
 
-[Page Under Construction]
+## Chemical Element (Formal Necessity)
 
-## Chemical Shape (Form)
+Formally stated, the reproduction of a chemical element by itself is contingent upon the conversion of voltage into heat. For as long as the element has voltage difference between its electrons and nucleus available for its conversion into difference in temperature as heat, the actuality of the element is ensured. The degree of electrostatic attraction by which an element's electrons are held by its nucleus is its electronegativity, which varies by the element's atomic number and valence electrons. Although chemical elements are identifiable by their atomic number, it is in truth the parameter of electronegativity that conditions the possibility of a chemical compound.
 
-- Shapelessness 
-    - Gas
-    - Plasma
-    - Liquid
 
-- Magnetization
-    - Paramagnetic
-    - Diamagnetic
-    - Ferromagnetic
+## Chemical Bonding (Real Possibility)
 
-- Crystallization
-    - Metallic
-    - Covalent
-    - Ionic
+The formation of a chemical bond between two elements is conditioned by their averaged electronegativity and difference in electronegativity, thereby making possible the division of substances into kinds:
 
-## Chemical Properties
+- Metals - a crystal of positive nuclei enclosing a fluid of valence electrons.
 
-- Color
+- Monomers - a fluid of positive nuclei enclosed by a crystal of valence electrons.
 
-- Conductivity
+- Salts - crystals of electropositive and electronegative ions.
 
-- Reactivity
+- Metallic-Monomers => Semiconductors
 
-## Chemical Process
+- Metallic-Salts => Alloys
 
-- Mixtures
-    - Suspension
-    - Solution
-    - Colloid
+- Ionic-Monomers => Oxides
 
-- Reactions
-    - Redox
-    - Combustion
-    - Acid-Base
 
-- Salts
-    - Acidic
-    - Basic
-    - Neutral
+## Chemical Process (Unconditioned Actuality)
+
+Once a chemical process generates products which are themselves reactants for the process itself, it internalizes its conditions as necessary moments of its own being and is thereby unconditioned. This unconditioned chemical process is metabolism, for the living organism infinitely constructs and renews itself by utilizing the energy it produces for its own purposes.

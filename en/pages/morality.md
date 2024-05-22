@@ -2,7 +2,7 @@
 
 [Page Under Construction]
 
-## Responsibility
+## Agency
 
 ## Intention
 

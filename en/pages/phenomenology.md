@@ -20,3 +20,8 @@
 
 ## Reason
 
+- Theoretical Reason
+
+- Practical Reason
+
+- Spirit
