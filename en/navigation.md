@@ -56,28 +56,28 @@
 [Physics]()
 
   * [Light](pages/light.md)
-  * [Quantum](pages/thermo.md)
+  * [Heat](pages/thermo.md)
   * [Chemistry](pages/chemistry.md)
 
-[Organism]()
+[Organics]()
 
-  * [Terrestrial](pages/earth.md)
-  * [Vegetative](pages/biology.md)
-  * [Animal](pages/animals.md)
+  * [Minerals](pages/earth.md)
+  * [Vegetation](pages/biology.md)
+  * [Animals](pages/animals.md)
 
-[Mind]()
+[Cognition]()
 
   * [Anthropology](pages/mind.md)
   * [Phenomenology](pages/phenomenology.md)
   * [Psychology](pages/psychology.md)
 
-[Justice]()
+[Practition]()
 
   * [Right](pages/right.md)
   * [Morality](pages/morality.md)
   * [Ethical Life](pages/ethics.md)
 
-[The Absolute]()
+[Revelation]()
 
   * [Aesthetics]()
   * [Theology]()
