@@ -56,13 +56,13 @@
 [Physics]()
 
   * [Light](pages/light.md)
-  * [Quantum](pages/quantum.md)
+  * [Quantum](pages/thermo.md)
   * [Chemistry](pages/chemistry.md)
 
 [Organism]()
 
   * [Terrestrial](pages/earth.md)
-  * [Vegetative](pages/plants.md)
+  * [Vegetative](pages/biology.md)
   * [Animal](pages/animals.md)
 
 [Mind]()
