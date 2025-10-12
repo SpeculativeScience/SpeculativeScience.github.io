@@ -49,38 +49,38 @@
 
 [Mechanics]()
 
-  * [Extension](pages/extension.md)
+  * [Mathematics](pages/math.md)
   * [Dynamics](pages/dynamics.md)
-  * [Gravity](pages/gravity.md)
+  * [Astronomy](pages/astronomy.md)
 
 [Physics]()
 
-  * [Light](pages/light.md)
-  * [Heat](pages/thermo.md)
+  * [Electrodynamics](pages/electrodynamics.md)
+  * [Thermodynamics](pages/thermodynamics.md)
   * [Chemistry](pages/chemistry.md)
 
 [Organics]()
 
-  * [Minerals](pages/earth.md)
-  * [Vegetation](pages/biology.md)
-  * [Animals](pages/animals.md)
+  * [Geology](pages/geology.md)
+  * [Cytology](pages/cytology.md)
+  * [Zoology](pages/zoology.md)
 
-[Cognition]()
+[Psychology]()
 
-  * [Anthropology](pages/mind.md)
-  * [Phenomenology](pages/phenomenology.md)
-  * [Psychology](pages/psychology.md)
+  * [Soul](pages/soul.md)
+  * [Intellect](pages/intellect.md)
+  * [Will](pages/will.md)
 
-[Practition]()
+[Praxis]()
 
-  * [Right](pages/right.md)
-  * [Morality](pages/morality.md)
-  * [Ethical Life](pages/ethics.md)
+  * [Ethics](pages/ethics.md)
+  * [Politics](pages/politics.md)
+  * [History](pages/history.md)
 
-[Revelation]()
+[Spirit]()
 
-  * [Aesthetics]()
-  * [Theology]()
+  * [Art]()
+  * [Religion]()
   * [Philosophy]()
 
 

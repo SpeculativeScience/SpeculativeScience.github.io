@@ -3,141 +3,142 @@
 ## Life
 
 ```
-Living Individual
+U ⧁ U ( P ( I ) ) 
 
-U ⧁ ( U ( P ( I ) ) )
-
-Sentience ⧁ ( Body )
-
-Sensibility
-
-Sentience ⧁ ( Awareness ( Sensation ( Sense ) ) ) 
-
-Irritability
-
-Sentience ⧁ ( Awareness ( Stimulation ( Stimulus ) ) )
-
-Self-Maintenence 
-
-Sentience ⧁ ( Self-Awareness ( Awarenesses ( Awareness ) ) )
+Soul ⧁ Body 
 ```
 
-The immediate Idea is Life, or the Living Individual. This is because organisms are internally purposive. Life is a Means to itself just as it is an End in itself. The purpose of Life is self-realized in Living Individuals.
+The idea of ​​life, as the idea only having just revealed itself from objectivity, is still connected to the object itself. Life stands partially in objectivity and partially in the idea, which is the reason why it is the idea in the form of individuality. The overarching subjectivity, which presents itself in life as the purpose that realizes itself in reality, is fully expressed in the object. Life only exists as living individuals, and this is the conceptual limitation of life in general. In the individual living being, although encompassing the universal concept within itself, is nevertheless not adequate to it and is thereby engaged in a struggle with it.
 
-The Living Individual has Sentience (Soul) and a Body. Life first must possess a means of responding and adapting to its internal states to maintain itself as living. This is accomplished through the functions of Sensibility and Irritability which are united in Self-Maintenence (re-production). Sensibility is capacity for sensing a stimulus, Irritability is the internal experience of stimulation sensory awareness and Self-Maintenence is the production and re-production of awarenesses in the body.
+This process of life is threefold: the living being firstly forms itself within itself, secondly assimilates the object external to it, and thirdly reproduces itself as being-for-itself in the other object. These three processes are interconnection of the moments of the concept of life as individuality, particularity, and universality, each of which forms itself into a complete system.
 
-```
-Life-Process
-
-I ⧁ ( U ( P ( I ) ) )
-
-Life ⧁ ( Metabolism )
-
-Need
-
-Life ⧁ ( Desire ( Desiring ( Object ) ) ) 
-
-Pain
-
-Life ⧁ ( Desire ( Desiring ( Lack ) ) )
-
-Assimilation
-
-Genus ⧁ ( Species ( Desires ( Desire ) ) )
-```
-
-In the Life-Process, Life desires to internalize what is external to it in order to maintain itself as living. The object that Life desires to sustain itself is its Need. Life is self-sustaining, but can only sustain itself if it internalizes what it needs. This contradiction between independence and dependence is experienced by Life as Pain. To avoid the experience of Pain, Life moves to assimilate the object to satisfy its Need. However, this activity of Assimilation disrupts Life's own self-maintenence despite being necessary for it, so Life must confront its being assimilated by externality, its own death. The Living Individual necessarily faces its own mortality, but Life survives through the birth of Living Individuals that are of its kind or Genus.
+### Formation
 
 ```
-Genus
+U ⧁ U ( P ( I ) ) 
 
+Soul ⧁ Body ( Organs ( Health ) ) 
+```
+
+Life is the objective unity of the subjective and the objective, i.e. a unity of objects that repels itself from other objects. Yet since it is not an individual object that simply opposes other objects mechanically or chemically, but instead, as the totality of the concept, harbors inner purposiveness within itself and is the very activity of the purpose in its execution. At the same time, the immanent concept of purpose is perpetually realized and inherent to it. The living individual is therefore the process by which the object that executes its purpose, i.e. the process of living.
+
+In the process of formation, the individual being receives within itself the general concept, which already exists in the totality of its particular moments, as the multiple objects comprising it. Formation is therefore subject to the first figure (I-P-U), in that the individual living being (I) lives up to its concept (U) when each of its particular moments (P) are in accordance with this universal. As inner purposiveness, life does not have external objects as its means, rather the specific moments of its objectivity serve as its means. As moments of the object's purpose, the particular members are ends in themselves in that each one makes the others into its means and vice versa. In the organism, each organ maintains all the others by maintaining itself. This mutual self-maintanence of all its organs, by which the process of living is realized, is the health of the organism. The major premise, P is U, states that every particularity is a universal end-in-itself. The minor premise, I is P, makes every individual member a particular means. And the conclusion, I is U, asserts that the individual living being, as living up to its universal concept, is healthy. If any member makes itself the universal purpose in the major premise without also offering itself as a means in the minor premise, thus amounting to the negation of the minor premise, then the organism becomes unhealthy or sick. The unhealthy organ, which does not want to be used a means, but instead wants to make itself the sole end at the expense of the other members, is not the true purpose but a falsification of purpose in that it pretends to be the universal when it is not. It can be clearly seen how illness in general is a judgment of particularity: it is a violation of the whole, a contravention of the purpose. In one moment, the illness withdraws from the purpose and thereby draws all the others into suffering with it, and so is on the verge of passing into the negation of death.
+
+### Assimilation 
+
+```
+I ⧁ U ( P ( I ) )
+
+Life ⧁ Metabolism ( Nourishment ( Object ) ) 
+```
+
+In the process of assimilation, however, the opposite relationship occurs to that of formation. The individual living entity, which through the inner formative process conforms to its universal concept, has become the universal in the conclusion I is U. Now, U takes the place of I, I is pushed into the middle and P in the last position, which is the inference of the second figure (U-I-P). The organism relates, as the overarching universality, to the particularity of external objects by means of individuality, which as the middle, is both an external object and a means. The process of external teleology is reestablished within the purposive activity of the organism, but only as a means to sustain its life. The middle term is, on the one hand, the activity that takes possession of an external object, and on the other, the activity of metabolizing the object as nourishment, thereby completing the external process of assimilating the inorganic by the organic.
+
+While in the formative process the individual living being was still external to its universal concept, the assimilation process conforms to its concept while at the same time subjected objects alien to it as a part of itself. We now have the relationship of an organic object to something conforming to a concept that is equally organic, thereby dissolving the mechanistic relationship of the individual to the individual. Instead, since the conclusion of the second figure reads U is P, the universal concept that has become objective in the individual is also the mediator that relates two organic objects, which develop into each other through individuality and particularity in the process of reproduction. The genus has now disjointed itself into its species and therefore objectified itself, whereas previously only the individual was objective.
+
+### Reproduction
+
+```
 U ( P ⇄ ( I ) )
 
 Genus ( Species ⇄ ( Embryo ) )
 ```
 
-In the Genus Process, a Particular generates an Individual that develops into a Particular capable of generating another Individual and so on. The Universal or Genus is what enables this whole process in the first place since the generation of Individual "offspring" only can take place if and only if the Particular "parents" are of the same Universal or Genus. 
+In the reproduction process, the inference of the third figure (P-U-I) is formed, in that the genus now carries out its universal purpose through its two species in that the active one (P) posits the purpose of the genus and the passive one (I) that receives its purpose from it. The extremes opposed to the genus, as individuals, are therefore opposed to each other in that the one expresses the genus in the particular and the other expresses individuality as such. Since both remain individual objects, the genus presents itself only negatively in them, asserting itself through the negation of their opposition. The genus, as the universal, now completely triumphs over the objectivity of the individuals. Living individuals are born, develop, and eventually die, but the genus persists as the circle of life continues. Life is now no longer merely the Idea in the form of individual objectivity, but has raised itself to the subjectivity of the species, which by extension means that the species has itself become objectified. Each aspect of the Idea, subjectivity and objectivity, has thereby become the whole Idea: it posits itself as a totality through the sublation and preservation of the other as a moment within it. The Idea is thus divided into a subjective and objective side, and is posited in each under a mediated form.
 
-It is contingent matter whether this or that living being successfully reproduces and continues its Genus or fails and extinct. However, the Genus Process as a concept is necessarily comprehensive and complete since each stage from birth to maturity to having offspring are all the same cycle (even if, in Nature, the existing cycles are repeated contingently in time).
-
-The Genus (Universal) is the Idea of Life, but since the Genus includes and reflects itself through its Genus Process, then the Genus Process is also the Idea of Life. So the Genus is now conceptualized as the Idea of Life that has an Idea of Life as its object. A living being that has itself as its object is a thinking being. Therefore, the Idea that has the thought of the Idea as its own thought is Cognition.
+Since nature in general stands from the standpoint of objectivity, it does not transcend the individuality of the living, and death is only the negation of these individualities in an immediate way. But even if the species presents itself positively in nature, it nevertheless always does so only in different particulars so that the species process, as the endless progression of the evolving generations, is simply mediated by new particulars. Though since the result of the reproduction process is the objectification of the universal concept in the individual and the elevation of the individual into subjective universality, the subjective and objective Ideas initially stand opposite one another as cognition, or the mediated Idea. The universal objectivity of the genus determines the subjective universality of the individual, for the genus has only elevated the individual into this universality through its negation. 
 
 ## Cognition
 
 ```
-Theoretical Cognition
-
 U ( P ⧁ ( I ) )
 
 Cognition ( Thinking ⧁ ( Thought ) )
 ```
 
-In Cognition, its object of thought is rendered intelligible by Cognition's own thought of what its object is. This Cognition begins by withdrawing into theory, deconstructing / analyzing what its object into its fundamental elements to determine its Concept.
+Cognition was constructed out of the reproduction of life by allowing the individual to perish into the universal through death, thereby elevating it to truth. For truth is the universal that remains unchanging through the change of all individualities. The individual participates in this unchanging nature of the universal, corresponding to its concept and preserving the individual in it. Cognition therefore resembles a judgment of the individual and the universal, in which the individual subject comes to know truth by cognizing the universal object as its predicate. But since both sides are the idea, wherein the cognizing subject is a universal and the object cognized is an individual, they are related to each other through particularity, which includes universality and individuality. Truth is therefore contained neither in the concept nor in the object, but exists only as the relation between the two, and so it is also defined as the agreement of concept and object.
+
+Since the extremes of the idea are initially external to one another, cognition can only be regarded as a definition of truth once their externality has been dissolved. The dissolution of their external relationship is described by the three moments of cognition. First, in the minor premise I is P, the universal is abstracted from the individual object by abstracting its particular characteristics – the analytic method. Second, in the major premise U is P, the universal establishes its definition itself by dividing into particulars – the synthetic method. Third, in the conclusion U is I,the universal constructs itself through the individual and the individual constructs itself through the universal – the genetic or analytic-synthetic method. 
+
+### Analytic Method
 
 ```
-Analytic Method
-
 U ( P ⧁ ( I → U ) )
-
-Cognition ( Thinking ⧁ ( Individual → Universal ) )
 ```
 
-In the Analytic Method, Theoretical Cognition simply cognizes a *given* Individual as an instance of a Universal by excluding its Particular characteristics. 
+Since the theoretical idea reveals itself as a complete inference, which at each of its stages presents only one of its judgments, the analytical method is more precisely the first premise, I is P, because it brings about the immediate contact and coloring of individual things through the universal concept. Individual objects always, through their dissolution or death, eternally return to their generic universality rather than their particular kind. The universality of thought, which at first seemed to belong only to the concept of the world, has proven to be inherent to the objects of cognition. it is the realm of genera, which, through the dissolution of individualities as such, emerges in them as the truth. For instance, in the animal organism, sight and hearing are theoretical senses because they most purely transform the infinite multiplicity of individual objects within sensory cognition itself into the form of universality, yet by transforming them into universals, they still allow them to persist in their objectivity. This is the point where the analytical method presents itself a mode of cognition. 
 
+Knowledge appears to the ego as thought, the abstract universality whose generalized framework it now seeks to fit individual things. They are the truth that it seeks to appropriate by utilizing the activity of observation. The truth of individual objects, however, proves itself rather to be their untruth, and only becomes truth once the cognition captures them in thought. Truth, as the mean of the extremes, consists here in allowing the individuals to participate in ever higher universals. The higher universals are comprehended as axioms, principles, laws, etc. until the the highest universality, the identity of all identities and differences, is comprehended. Analysis has thereby analyzed itself and has become its opposite in synthesis. For if its result is the dissolution of all particulars that are summarized the highest universality, then analysis itself led to this summary. There is no analysis without synthesis, and it is a one-sided conception of the empirical sciences to try to keep these two methods separate. To analyze the particularity of a concept from all individual objects means to synthesize them within it. 
+
+### Synthetic Method
+
+Whereas analysis ended with the highest universal, synthesis begins with it. The most general concept that synthesis takes as its standpoint is highly abstract because the differentiated content originally in it was omitted in analysis. Synthesis must now rediscover the content that was in the universal and connect it back to itself. Therefore, it forms the major premise of cognition, U is P. In the object of analysis, the content is given, while in the concept of synthesis, the content it is hidden. From the perspective of reason, analysis discovers the unknown within the known, while synthesis reveals the known within the unknown. In fact, in the study of any subject matter, the object is the first to be known and the absolute universal the last. But the advantage that synthesis has over analysis is always that, since it begins with the universal, it does not depend any presupposed object that is simply given. By beginning with the independence of thought, it strives to condense the apparent indeterminacy and lack of content of thought into ever more complete content. Synthesis is therefore a priori knowledge, whereas analysis, as a posteriori knowledge, must rely on experience.
+
+If analysis is grounded in inferences of experience (i.e. induction and analogy), then synthesis is grounded in inferences of necessity, derived a priori from the universal concept. However, progress within the synthesis can only consist in the fact that, in the second premise (U is P), the subject initially only determines itself in its universality, positing its essential difference in its moment of definition. From this, the universal is partitioned down into its particular kinds in its moment of division. This process continues until it ends in its final moment of demonstration, where the universal descends to the individual through particularity. 
+
+#### Definition
 
 ```
-Synthetic Method: Definition
-
 U ( P ⧁ ( U → P → I ) )
-
-Cognition ( Thinking ⧁ ( Universal → Particular → Individual ) )
 ```
 
-The first moment of the Synthetic Method is Definition. In Definition, Theoretical Cognition understands the Individual as defined by a Universal *because* of its Particular characteristics. The Definition itself is the Universal, the set of defining characteristics is the Particular and the object defined is the Individual. For example, a tree (U) that grows pinecones (P) is a conifer (I). 
+Even if synthesis in definition begins with the universal, this universal is nevertheless not an abstraction, precisely because it is the result of the entire movement of analysis. In this way, the universal is just as much a particular, since it includes the determinate difference within itself, and as by distinguishing itself from others, it is also a particular. The definition is therefore already the totality of the concept, and therefore we can also grasp it as a definition of reason. Yet, of course the definition is only the positing of immediate, still quite general distinctions. As a categorical judgment, the necessity of the relation between subject and predicate is necessary only immediate because the specific distinctions that bring about mediation have not yet been posited. 
 
-Contrary to the Analytic Method, the Definition produced by the Synthetic Method counts as a genuine syllogism. The Analytic Method extracted the Universal from a presupposed Individual, but this produced a direct judgment rather than a syllogism since the extraction of Universality required the exclusion of Particularity. However, the problem that Definition faces is that there is more than one defining characteristic that defines the object that is not encompassed by the definition. If the object defined was equivalent to its Definition, then then the object defined would be the Definition iterated within itself, which would mean that the the syllogism would reduce to a tautology (Infinite Judgment).
+The definition or logical explanation is defined as the complete development of the content of a concept, which is achieved by specifying its essential characteristics. But if we are dealing with the concept of any object in general, its definition is indeed also the unfolding of its content, but in such a way that its universality still entirely encompasses the totality of genera or particulars as its characteristics, and the object is still conveyed in its simplicity. Even in the definition of the concept of any object, as always a categorical judgment, the necessity of the relationship is not yet posited because the distinctions have not yet been developed. The same is true when we are dealing with a determinate concept. As determinate, it is distinguished from others, and the difference it has from other concepts is its characteristic. The essential or essential characteristics of the concept are, however, that which forms the substance of this concept. Thus, the definition of an individual concept (definitum) requires, first, its next higher generality (genus proximum), and the characteristic that distinguishes it from other particulars of the same genus (differentia specifica).
+
+If the characteristic of a particular concept is supposed to be the essential one, like the predicate in a categorical judgment, but the higher or lower generic concepts are discovered through analysis, then it is contingent whether it is essential or inessential. And therein also lies the immediacy of necessity, which has already been explained from the categorical judgment. Just as the contingency can lie in a characteristic, it can also lie in the subject. Indeed, because of the contingency of the two parts of the judgment, the characteristic often falls to the point of no longer being the objectively existing differentia specifica, but instead becomes a subjective marker with which we distinguish one concept from another. If, on the other hand, animal species are distinguished from one another by their skeletal structure, then such characteristics are not something merely subjective, rather, it is through these characteristics that animals define themselves objectively from one another.
+
+To formulate a correct definition, firstly the definition should not be a mere explanation of a name, which would reduce it to an identical judgment. It should be an actual explanation because it must specify and explain its content. For this reason, the definition cannot be a negative judgment, nor contain a contradiction in terms. Then the definitum should not be contained in the definition, because otherwise it would be circular. The identity must be the content-rich identity of accident and substance, so the hallmark of a correct definition is that it can be reversed. This reversal is only possible, however, if the definition is neither too narrow nor too broad. The definition is too broad if a generic term is specified that is too general, e.g. A square is a right-angled quadrilateral does not distinguish squares from rectangles. Likewise, the definition is too narrow if a distinction that is too specific is added, e.g. A parallelogram is an equiangular quadrilateral excludes scalene parallelograms. Both definitions therefore cannot be reversed. Incidentally, mathematics otherwise offers the best definitions, it is the model of the synthetic method. Since the concept of definition is not static, but unfolds further distinctions from within itself, the definition becomes division.
+
+#### Division
 
 ```
-Synthetic Method: Division
-
 U ( P ⧁ ( U → P → I → U ) )
-
-Cognition ( Thinking ⧁ ( Universal → Particular → Individual → Universal ) )
 ```
 
-The second moment of the Synthetic Method is Division. In Division, Theoretical Cognition understands the Individual as being defined by the Particularity that the Universal divides into. Each Individual gets to be an Individual if and only if it has a Particular characteristic that distinguishes it from other Individuals. 
+If the definition represents a categorical judgment, then the division is based on the disjunctive. The universal, be it the absolutely universal or a determinate universality, resolves itself into particularity by its nature. While in definition, the predicate P of the major premise U is P, has only the meaning of the determinateness of the universal concept, in the division it becomes the totality of its determinations. The concept disjoins itself into the realm of genera, each genus into the system of its species. So if definition denotes the intensional content of the concept, division denotes its extensional content. The essential requirement of every division is completeness, though this is not always possible to achieve. For example, in evolutionary history, the species and their genus are discovered by chance through the induction of analysis, it is also accidental whether all species of a genus have been identified, experience can always discover new species. If these species share the generic characteristic with the already known species, but differ from them by a specific characteristic, the classification becomes incomplete. Therefore, whether the classification is complete or not is a matter of chance. 
+
+Since the definition is contingent, not only because an inessential characteristic is specified, but also because the definitum can have other essential characteristics than those specified. The division is nothing other than the characteristic of the defined concept that divides its content. Therefore, there can be several divisions alongside one another so long as as each essential characteristic of the concept can offer a specific ground or reason for the division. If, on the other hand, species and genus are further divided, further subdivisions and superdivisions also arise.
+
+While in the empirically established divisions the species present themselves as merely accidental differences of the genus and are therefore of any number, the truly objective division based on the objectivity of dialectics must have necessary opposites as its members. The division is thus a dichotomy, or rather, since the opposites then achieve unity in a third kind, a trichotomy, which in nature often becomes a tetrachotomy. For the system of philosophy, logic is the first moment of the division, which has its opposite in nature, while both are linked in spirit as the third member of the division. The same logic also applies to the objective divisions of specific concepts. The particularity into which the division interprets the general concept is not, however, its ultimate determination. As particularity becomes ever more particular, it becomes a determinate determinacy or individuality. This richest reality, which the concept has attained in the individual species, is now the theorem.
+
+#### Theorem
 
 ```
-Synthetic Method: Theorem
-
-( U ( P ( I ) ) ) ⧁ ( U ( P ( I ) ) )
-
-( The True ) ⧁ ( The Good )
+U ( P ( I ) ) ⧁ U ( P ( I ) )
 ```
 
-The third and final moment of the Synthetic Method is the Theorem. In the construction of a Theorem, Theoretical Cognition understands the Individual as what holds together the processes of Definition (Universality) and Division (Particularity). What makes a Theorem true, however, is in its being proven. 
+Since in the theorem, reality corresponds to the concept, albeit only in a very specific way, the theorem represents a conceptual judgment in which the particular has become appropriate to its universality. While the definition contains only one general determination, and division indicates the relationship of several particular determinations to one another, the theorem expresses the relationship of one individual determination within itself, whose moments have themselves become the whole. Thus, the theorem is the true synthesis, in that the developed moments of reality are summarized in the simplicity of the concept. Now, if the theorem presents itself as an optimal category for the concept because it fully expresses the idea as the identity of the subjective concept and objective reality, the definition has already achieved this, only that it remains with the general, which merely includes the other moments of the concept within itself, whereas the theorem separates them in their individuality. But when it comes to a specific concept, the difference between the definition and the theorem becomes even more clear. It can be doubtful whether such a concept should be conceived as a general one or as an individual one, and thus be set forth as a definition or as a theorem. It can be a definition in one science, a theorem in another, or it can appear as an individual theorem in a more general science, and in a narrower one it can form a general definition placed as an axiom. The progress of theorems, however, consists in their expressing the complete content-determination of the individual ever more purely, which is the case for the axiom. For example, in the theorems about triangles, the Pythagorean theorem does this most completely. The unity of the concept of reality, initially only presupposed in the theorem, is then mediated within itself and finally proven. This yields the three moments of the theorem: the premise, the construction, and the proof.
+
+##### Premise
+
+The unity of its moments presupposed but still unproven by the theorem is the premise. That in a triangle two sides and the angle enclosed by them completely determine the triangle is, as a merely stated assertion, an assertoric judgment. Every premise is an assertion, but precisely by being asserted does it already contains within itself its concept and reality. The angle enclosed by two sides is the completely expressed subjective concept of the triangle and the three other pieces added to it form its self-evident reality. Yet the premise still contains this unity of concept and reality itself only in the form of universality, i.e. in the form of a still undeveloped reality.
+
+##### Construction
+
+That the moments of the concept appear for themselves as distinct sides of reality is the transition of the theorem from universality to particularity. This is what the synthetic method calls construction, where the concept now establishes itself in the object. That the square of the hypotenuse in the Pythagorean theorem is equal to the squares of the two sides is to be made clear by dividing the square of the hypotenuse into two rectangles, each of which is equal to the square of one of the sides. The further lines drawn by the construction to prove this equality through the triangles, as the halves, do not yet have the clarity of the subjective concept. One does not yet know why they are drawn in this way, precisely because they are only the objective particularization of the concept, which has not yet been summarized into subjective unity or insight. Construction is therefore only hypothetical, or a problematic judgment. In the objective form of the construction, the same thing takes place as in the subjective form. The moments of mediation indeed confront the immediacy of the premise, but they are not yet recombined.
+
+##### Proof
+
+The recombination of what was demonstrated in construction only occurs in the proof, the apodictic judgment. It reveals the unity of the concept in the dissected members of reality as in, for instance, in the Pythagorean theorem that squares and rectangles are equal because their triangles are.  The formalism of such a proof consists in the fact that, if the construction has been put forward as the ground for the proof, it now turns out to be a simple consequence of the relationship already objectively present in the concept. Reality itself is thus only a consequence of the concept, not the other way around. But the proof is not yet the creator of this relationship as in the genetic method, rather proof is only the subjective insight into the correctness of the relationship, and so from this perspective, the proof is also entirely formal. In fact, the subjective concept, which clarifies itself out of the blind construction of objectivity, is also to be grasped as the presupposition that generated the reality it now recognizes. By synthetically summarizing the moments of construction, the concept simultaneously analyzes them from its inner simplicity. The interconnection of both paths, the analytical and the synthetic, is now the hypothesis or genetic method.
+
+### Genetic Method
 
 ```
-Practical Cognition
-
-( U ( P ( I ) ) ) ⧁ ( U ( P ( I ) ) )
-
-( The True ) ⧀ ( The Good )
+U ( P ( I ) ) ⧀ U ( P ( I ) )
 ```
 
-However, both Theoretical Cognition and Practical Cognition are one-sided because each presupposes an *given* objectivity that is external to the Concept. Theoretical Cognition presupposes that its object is True and constructs the Concept in thinks about the object. Practical Cognition, on the other hand, presupposes that its Concept is True and the object that it faces is not. Each is external to the other, but each also presupposes and mutually defines its other. The Theoretical and Practical Cognition are engaged in a reciprocal process of conceptualizing the True and realizing the Good.
+The hypothesis presupposes the essential moments of the total concept, but only as something empirically given from which the rest of reality is derived. From the object, as the inessential multiplicity of reality, the essential simplicity of the concept is analytically separated in order to discover from it, through a second analysis, the remaining pieces of the puzzle. This double analysis is also a double synthesis, for the simple totality of the concept is the universal, which is synthetically derived from the individual given objects, and the moments of the concept and reality are likewise synthetically linked to one another as the essential and the inessential. Thus hypotheses are generally formed through analysis, whether by induction or analogy. In a problem, we begin with the subjectively universal as something objectively present, in order to allow the whole of reality to arise from it through the genesis of the relationship. However, propositions can very easily be transformed into problems if one gives one side of the premise, e.g. two sides and the angle enclosed by them of a triangle, in order to construct the entire triangle from it. The genetic method is still different from the dialectical method because it begins with the simplest and most immediate fact of experience, whereas the dialectical method begins with the simplest and most immediate concept. Both methods, however, are already very close to each other, differing only in finding their results in a different order. Since in the hypothesis of the problem, both sides are already presupposed, it is not simply a matter of having insight into their identity, but deducing its reality from its concept. Thus, the construction is no longer blind, as in the case of a theorem, for which it seeks, as it were, an external means to an end alien to itself. An internal teleology is posited to bring the purpose to fruition in an object appropriate to it. Therefore, the subjectivity of construction also vanishes, and in its place comes that of the answer to the problem to which the concept itself leads us.
+
+The proof of the hypothesis seems to be superfluous to the extent that the insight into the necessity of the relationship already appears in solution. The proof therefore solely and exclusively points to this reality produced by the solution is the only correct one. This proof can only be carried out by demonstrating that every reality other than that arising from the concept does not correspond to this concept. In other words, every other reality is a negative judgment of the concept. Such a proof is called a proof by contradiction, which is actually only the simple demonstration of the principle of identity, that what corresponds to the concept corresponds to it, and what contradicts it contradicts it: that what does not correspond to the concept cannot be what corresponds to the concept. For example, if one were to choose a point other than the one where the perpendiculars intersect as the center of a circle, it would follow that the isosceles triangles constructed on the two lines would not have equal sides, and the radii would not be equally distant from the center; all of which is absurd. Thus a reductio ad absurdum is undertaken: the contradictory opposite cannot possibly be identical with its opposite, and the law of the excluded middle applies here completely. From this example, however, it also follows that the standpoint of cognition has been completely reversed. The objective idea is no longer the rule according to which the subjective idea should be determined and fulfilled because the reality that it expresses are inappropriate to the concept. The subjective idea is now the rule and the complete standard, which posits this one reality as that which corresponds to the concept and negates those others as that which contradicts it. 
+
 
 ## Absolute Idea (Method)
 
 ```
-Absolute Idea 
-
-( ( U ( P ( I ) ) ) ⟲ ( U ( P ( I ) ) ) )
-
-( The True ) ⟲ ( The Good )
+U ( P ( I ) ) ⟲ U ( P ( I ) ) 
 ```
 
-The Absolute Idea is not only the unity of Theoretical and Practical Cognition, but it also encompasses the completed series of concepts that led up to it. To think the Absolute Idea would be to think through the entire series of concepts that began with Immediacy and ended with the Absolute Idea itself, which is the entire series of concepts taken together. Since the completed series of concepts are the conditions for the Absolute Idea, there is no other concept that Absolute Idea is the condition of, so the Absolute Idea is the unconditioned universal or Reason itself.
+The absolute idea is now the highest level of the idea, in which all opposites are summarized in a consistent harmony. As a unity of form and content, the reciprocal demonstration of system and method. By this, one must by no means understand a comprehensive subject, as one has intended, enthroned above and beyond the objective world, but only the conscious individuality of the real person immanent in it and alone comes into consideration in logic as the eternal personality in the thinking philosopher.
 
-
-The logical result of the Absolute Idea as Reason is only comprehensible, however, if it includes and encompasses the entire process that led to it being the one and only result. The process is proof of the result, but the result is also proof of the process. 
+Here we have concluded the presentation of logic and in effect the transition to nature. However, we cannot determine in advance that this is a transition to a different science, we can only infer it afterwards from the fact that we have arrived at a point in dialectic at which we are no longer operate within the pure logic. Whether this is really the case will only become clear in the following presentation of the second philosophy, which thereby makes the logic the first philosophy. The more precise nature of this transition, however, is contained in the fact that the logical Idea has developed to the absolute Idea, it simultaneously posits itself as all reality. All determinations and negations have returned to the simplicity of their most immediate premise of Being. But this Being now contains the entire richness and content of reality in itself. The reality that separates everything into external moments is at the same time its absolute coherence. Self-externality presents itself to us as the first concept of nature as space, inaugurating the transition from logic to nature.
