@@ -24,58 +24,70 @@
 [Preface]()
 
   * [What is Reason?](pages/reason.md)
-  * [The Speculative Method](pages/method.md)
-  * [Presuppositionlessness](pages/presuppositionlessness.md)
-  * [Sublation](pages/sublation.md)
-  * [Absolute Idealism](pages/idealism.md)
+  * [The Purpose of Philosophy](pages/purpose.md)
+  * [The Object of Philosophy](pages/content.md)
+  * [The Method of Philosophy](pages/method.md)
 
-[Being]()
+[Logic]()
 
+  * # Being
   * [Quality](pages/quality.md)
   * [Quantity](pages/quantity.md)
   * [Measure](pages/measure.md)
-
-[Essence]()
-
+  * # Essence
   * [Reflection](pages/reflection.md)
   * [Appearance](pages/appearance.md)
   * [Actuality](pages/actuality.md)
-
-[Concept]()
-
+  * # Concept
   * [Subjectivity](pages/subjectivity.md)
   * [Objectivity](pages/objectivity.md)
   * [Idea](pages/idea.md)
 
-[Mechanics]()
+[Nature]()
 
+  * # Mechanics
   * [Mathematics](pages/math.md)
   * [Dynamics](pages/dynamics.md)
   * [Astronomy](pages/astronomy.md)
-
-[Physics]()
-
+  * # Physics
   * [Electrodynamics](pages/electrodynamics.md)
   * [Thermodynamics](pages/thermodynamics.md)
   * [Chemistry](pages/chemistry.md)
-
-[Organics]()
-
+  * # Organics
   * [Geology](pages/geology.md)
   * [Cytology](pages/cytology.md)
   * [Zoology](pages/zoology.md)
 
 [Psychology]()
 
-  * [Soul](pages/soul.md)
-  * [Intellect](pages/intellect.md)
-  * [Will](pages/will.md)
+  * # Faculty of Feeling
+  * [Sentience](pages/sentience.md)
+  * [Dreaming](pages/dreaming.md)
+  * [Consciousness](pages/consciousness.md)
+  * # Faculty of Cognition
+  * [Sensibility](pages/sensibility.md)
+  * [Imagination](pages/imagination.md)
+  * [Thinking](pages/thinking.md)
+  * # Faculty of Desire
+  * [Motivation](pages/motivation.md)
+  * [Decision](pages/decision.md)
+  * [Free Will](pages/freewill.md)
 
-[Praxis]()
+[Law]()
 
-  * [Ethics](pages/ethics.md)
+  * # Private Law
+  * [Legality](pages/legality.md)
+  * [Morality](pages/morality.md)
+  * [Family](pages/family.md)
+  * # Public Law
+  * [Economics](pages/economy.md)
+  * [Civics](pages/civics.md)
   * [Politics](pages/politics.md)
+  * # Historical Law
+  * [Pre-History](pages/prehistory.md)
   * [History](pages/history.md)
+  * [Post-History](pages/posthistory.md)
+
 
 [Spirit]()
 

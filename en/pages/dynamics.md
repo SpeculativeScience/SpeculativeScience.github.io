@@ -1,5 +1,7 @@
 # Dynamics
 
+> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+
 The moment of mechanics now under consideration is what is called dynamics or classical mechanics. As opposed to formal or mathematical mechanics on the one hand, and astronomy or mechanics on the other, this kind of mechanics stands midway between both and mediates between them. For mechanical bodies are, firstly, completely indifferent and external to one another through mutual repulsion, where each body resists being moved by another body from the outside, which is the subject matter of statics. The second is that, acting as others against one another, they place each other in a state of motion, the subject for which is kinematics. But that bodies, thirdly, return from motion to rest by determining and being determined as a system of bodies, passing over from repulsion to attraction, this immanent motion of bodies is elastics.
 
 ## Statics

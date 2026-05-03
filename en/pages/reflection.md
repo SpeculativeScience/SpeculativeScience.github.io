@@ -1,5 +1,7 @@
 # Reflection
 
+> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+
 Essence is non-immediacy, the self-negation of being. It does not pass into something else, only posits the other as its other, but only through this positing does it become what it is, essence. The indifference of essence remains with itself in every externality because essence includes within itself the infinite determinations of being. Because of the infinite simplicity of essence, which contains all being only as an ideal within itself, being is also contained within it as non-being.
 
 The positing of being as inessential is how the essential shows itself. Since essence thereby reduces being to semblance, essence first breaks forth through this semblance. The activity of essence thus produces a semblance of itself. Semblance is the positing of being in essence. But since essence is also not a semblance, the essential is not the inessential, being still appears to essence as something presupposed to it. Since essence has become essence only through this negation of its presupposition, which it has posited for itself, it has only attained itself in this negation. This activity of returning from its negative back into itself, and only through this return to being, essence is reflection, just as light reflects back from the dark surface from which it shines. 

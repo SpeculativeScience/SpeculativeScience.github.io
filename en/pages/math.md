@@ -1,5 +1,7 @@
 # Mathematics
 
+> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+
 As the science of pure magnitude, mathematics has no sensory content for its objects because they are not yet self-existent or individual. As a formal science, mathematics deals only with the most abstract of entities which it treats as independent objects, concerning itself only with the general ideas of shapes, numbers, equations, etc. It stands midway between the pure thought of Logic and the sensory being of Nature, so it is the bridge between both areas. However, only the general principles of mathematics are also the starting points of nature. For mathematics is applicable to nature, but only to certain parts of it, namely the areas in which quantity predominates. 
 
 The idea of externality in its simple, immediate, and unrestricted form is, first of all, space, the subject matter of which is geometry. The second is the beginning of the idealization of

@@ -1,5 +1,7 @@
 # Quantity
 
+> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+
 The contradiction of quantity lies more precisely in the fact that, because of the independence of the many ones, their boundary with respect to one another is restored, and at the same time, because they are all equal as ones, that their boundary also remains abolished. Finitude reappears in infinity and at the same time disappears again. The concept of quantity is therefore to be a limit that is not limited, the limit can be set anywhere but it is indifferent to wherever it is set. A meadow remains a meadow whether it is a hundred or fifty feet long, its quality as a meadow is the same whether it is great or small. If quality constitutes the being of something, then quantity is indifferent to this being. The common definition of quantity or magnitude, as that which can be increased or decreased, contains this correct moment of the indifference of the limit, but is deficient in that it already includes what is to be defined as a part of its definition. To define magnitude, one must not say that it is that which can be increased or decreased, since one has not yet explained what increasing or decreasing means for quantity. Instead, quantity must first be considered from the side of infinity as pure magnitude, then from the finitude as number, and lastly in the relation of both sides to each other as the ratio.
 
 ## Magnitude

@@ -1,5 +1,7 @@
 # Zoology
 
+> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+
 ## Animal Anatomy
 
 ### Systems of Sensitivity

@@ -1,5 +1,7 @@
 # Objectivity
 
+> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+
 Since individuality now has the total development of the concept within itself, it has arrived from the potential of universal subjectivity to the actuality of isolated objectivity. Because each individuality is the whole concept, it has on the one hand, has not lost itself in objectivity, but on the other hand, has not yet achieved the reality adequate to it. This is because the unifying bond of universal subjectivity had to be abolished for the individual objects to diverge into the absolute independence of their being. Though, because it has also preserved itself in becoming absolutely independent, its progress now consists in the fact that what was previously only presupposed as its conditions, being and essence, have now been completely defined as necessary moments of the concept's self-definition. 
 
 With the transition of the concept into the object, being has at last revealed itself for a fifth time. The first, indeterminate and immediate being had, secondly, determined itself within its immediacy as existence. Third, being arose from essence as existence mediated by essence or essential existence. Fourth, it had risen in actuality to identical with essence, until it has finally been posited as an object in the proper determination of the concept, which must traverse the entire circle of its moments to realize its unity as the idea, in which reality has become adequate to the concept.

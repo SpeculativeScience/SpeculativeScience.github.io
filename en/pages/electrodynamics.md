@@ -1,5 +1,9 @@
 # Electrodynamics
 
+> [ Work in Progress ]
+
+> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+
 ## Light
 
 ### Source of Light

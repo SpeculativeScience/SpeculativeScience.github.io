@@ -1,5 +1,7 @@
 # Actuality
 
+> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+
 In actuality, being reveals itself again, but now for fourth time. This time, however, it is neither indeterminate (pure being), nor immediately determinate (existence), nor even in its existence mediated by essence. Being is now a finitude arising from the mediation of essence, which again assumes the appearance of immediacy, but now the positedness of being is now its self-positing, so that mediation through itself has returned to immediacy. Actuality has its essence in itself, and conversely, it is essence that includes its existence within itself and posits it from itself.
 
 The division of actuality understood in its immediacy first makes the categories from which it arose, the inner and the outer, into moments of its own being, opposing itself as inner and outer, in order to arrive from this dichotomy of itself at the unity of these moments in modality. Since each aspect has then become the whole, within reality there again stand two totalities in relation to one another, each of which includes within itself the two opposite moments of reality in the relation of necessity. Finally, these two totalities merge again into one unity, which now allows its moments to emerge freely from itself in the Absolute.
