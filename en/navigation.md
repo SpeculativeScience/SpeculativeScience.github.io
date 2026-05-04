@@ -11,9 +11,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](bootstrap)
-
-
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
@@ -38,7 +35,7 @@
   * [Reflection](pages/reflection.md)
   * [Appearance](pages/appearance.md)
   * [Actuality](pages/actuality.md)
-  * # Concept 
+  * # Concept]()
   * [Subjectivity](pages/subjectivity.md)
   * [Objectivity](pages/objectivity.md)
   * [Idea](pages/idea.md)
@@ -95,6 +92,8 @@
   * [Religion]()
   * [Philosophy]()
 
+
+[gimmick:themechooser](Choose theme)
 
 <!-- A more complex navigation example: ----------------------------------------
 
