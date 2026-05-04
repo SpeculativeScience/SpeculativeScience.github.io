@@ -1,6 +1,6 @@
 # Sensibility
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. II* (1840) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. II* (1840) 
 
 The immediate sensory impression of the object on the subject is sensation, it is the subject's immediate self-determination. The subject finds a change that has taken place within itself, the cause of which, however, it does not yet relate to an object outside of it. In sensation, subject and object are immediately one and sensory representation cannot yet distinguish the two from one another. Since the subject is spirit, it must, as a universal, distinguish itself from sensory individuality. For, alongside this individual content of sensory sensation, it has other, and yet another, and so on. Through this the subject remains what is simple and separates itself from this plurality of content. 
 

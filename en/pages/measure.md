@@ -1,6 +1,6 @@
 # Measure
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 As being determined in and for itself, which has the aspect of its existence in indifferent quantity, measure is not yet true infinity. For the ideal determinacy that constitutes its inner, immanent being, in contrast to its outer indifferent being, is not yet the completeness of determinacies, the infinite determination of being, but only one ideal determinacy opposed to another ideal determinacy. Quality is thus reestablished in measure, but quality now stands opposed to quantity. The quality as ideal determinacy has attained a certain infinite being-for-itself that still persists in finitude because it has other ideal determinacies alongside it. Only the dialectical movement of measure returns to true infinity since, first, we will have to consider the immediate measure or measurement as the struggle between quality existing in-and-for-itself and the external indifference of quantity. But since the result of this struggle will be the dissolution of this opposition in the mediated measure or measure relation, we secondly must present the relationship of qualitative quantities, as ideal determinations, to one another. Finally, the qualitative quantities having sunk into indifference and externality as the true infinity of being, will form the transition to essence as the indifference to being.
 

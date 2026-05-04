@@ -1,6 +1,6 @@
 # Motivation
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
 
 Since the natural will has not yet attained its concept, to know itself as an individual and at the same time recognize its destiny for universality, it actively strives to make the contradiction of its nature and destiny disappear. Theory, on the other hand, does not proceed from contradiction, but is identical with the object from beginning to end. Humans are born helpless in nature, unable to be content with the expression of nature, whereas for animals, nature provides them what humans must first acquire from it through labor. This concept of the natural will, not yet adequately realized in existence, is the ought. Precisely because the natural will is only an ought, it has not yet abandoned the immediacy of its natural existence in order to correspond to its concept. Kant and Fichte therefore rightly established the ought as the foundation of the practical, and the former thus expressed the moral obligation as the categorical imperative. It is only wrong to persist with the ought as if it were the final determination because it permanently strives towards its goal without ever reaching it.
 

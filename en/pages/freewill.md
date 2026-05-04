@@ -1,6 +1,6 @@
 # Free Will
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
 
 In order for formal self-determination to achieve the universal purpose of happiness through the infinite particularity of its drives, it must become the content of the will not beyond this particular content, but in the midst of this heteronomy. Since the will itself is the infinite form of universality, it remains, whatever its particular content may otherwise be, a self-determining universality. Therein lies the concept of the will's freedom, it has only itself as the content of its self-determination. The free will becomes an object to itself, and the existence of this object is right. Thus, we have to present, firstly, the pure concept of right, secondly, the existence of right, and thirdly, the unity of the pure concept and existence of right as the realized concept of law.
 

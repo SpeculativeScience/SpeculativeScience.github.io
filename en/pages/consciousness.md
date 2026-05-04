@@ -1,8 +1,8 @@
 # Phenomenology
 
->[Work in Progress]
+Attention: This page is a work in progress
 
-> This webpage is a direct translation of Johann Eduard Erdmann's *Outline of Psychology, Fifth Edition* (1873) 
+Note: This webpage is a direct translation of Johann Eduard Erdmann's *Outline of Psychology, Fifth Edition* (1873) 
 
 ## Consciousness
 

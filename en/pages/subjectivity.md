@@ -1,6 +1,6 @@
 # Subjectivity
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 ## Concept
 

@@ -1,8 +1,8 @@
 # Posthistory
 
-> [ Work in Progress ]
+Attention: This page is a work in progress
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Philosophy of History Vol. II* (1881) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Philosophy of History Vol. II* (1881) 
 
 The concept of the post-historical era is implicit in the idea that Reason, acting with artistic energy, is destined to mold humanity into its own image in the the entirety of social life. This is so that the individual increasingly becomes an embodiment of the Eternal Personality of the Spirit within the universal life of humanity. While in this manner the timeless prehistoric world is restored, and the lost Paradise is regained, this process is not destined to occur as it did initially, within the realm of unconscious feeling, but with clear consciousness amidst the full maturation of the individual personality, within a time that is identical with eternity. However, just as complete innocence was not present in the primordial state, neither will absolute virtue arise in the final acts of world history. Individuals remain individuals at all times, so the boundary imposed upon the universal life within them can never be entirely effaced. Nevertheless, just as the view positing suddenness in the physical transformation of the Earth, and in the moral progress of humanity, has had to give way to the concept of a gradual transition from the primordial era into the historical era, so too will the unfolding of the third world age, the approaching Realm of Reason upon Earth, be a process of gradual evolution. For Reason already holds sway, though in a different and less decisive manner, within the first two world ages as well, and in the third age, it will attain an ever-greater dominion.
 

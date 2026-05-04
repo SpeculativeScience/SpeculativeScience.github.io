@@ -1,6 +1,6 @@
 # Dreaming
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. I* (1840) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. I* (1840) 
 
 The interconnection of natural and spiritual life is a struggle of the soul against its own power, so that the soul may become master of itself and gain control over its corporeality. This victory is only possible through the complete identification of natural and spiritual life. Since spiritual life is subjective, conscious life, the next step toward this identification is that natural life also becomes subjective and conscious by confronting itself, and finally, that the soul acquires control by way of both identities merging into one. The waking state of the individual is the realization of its free subjectivity, and thereby its entire self. This state is the true totality, whereas natural life is only the implicit or potential totality. However, the existence of otherness also belongs to the true totality. Therefore, if the waking state is to be truly conscious, it cannot exclude natural life from its dream life. The waking state must allow natural life to influence it, for it appears as an external power that establishes itself within waking consciousness, initially only in individual glimpses, but afterward becomes increasingly pervasive in consciousness.
 

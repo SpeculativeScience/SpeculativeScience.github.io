@@ -1,6 +1,6 @@
 # Family
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. I* (1866) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. I* (1866) 
 
 ## Marriage
 

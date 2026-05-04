@@ -1,6 +1,6 @@
 # Civics
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
 
 ## The Justice System
 

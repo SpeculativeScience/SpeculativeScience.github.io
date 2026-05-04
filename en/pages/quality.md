@@ -1,6 +1,6 @@
 # Quality
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 As pure being, being has not yet developed the opposition from within itself, but is only indeterminate being. But second, by generating this opposition within itself, one being stands opposite another, and this multiplicity of being we call existence or determinate being. Third, existing beings return from this dichotomy back to the oneness of being. The simplicity of being that restores itself through multiplicity, through which it is with itself in the other, is being-for-itself.
 

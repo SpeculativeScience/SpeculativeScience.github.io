@@ -1,8 +1,8 @@
 # History
 
->[Work in Progress]
+Attention: This page is a work in progress
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
 
 ## Ancient Law
 

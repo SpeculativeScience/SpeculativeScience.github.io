@@ -1,6 +1,6 @@
 # Geology
 
-> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+Note: This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
 
 If life is the highest stage of nature, it is nevertheless the actual purpose of the preceding stages, which as one-sided moments of life, form its presuppositions only in its concept. Drawing attention to the absurdity of allowing the stages of nature to fall apart in time, we just as little make the conceptual differences between these stages absolute, as if they have absolutely nothing in common with each other in reality. Therein lies the error of the claim that the inorganic and organic have no relationship, since the inorganic is the necessary condition of the organic. All the individualities that appeared separately in the earlier stages, such as metal, sulfur, crystals, salts, etc. are now moments of the geology of the Earth. The stages in which the geological organism develops, however, must follow naturally from its concept. The first is geophysics, which studies the natural processes that shape the Earth. The second is petrology, which studies the structure and composition of the Earth. And third, these opposites are balanced in cellularization, the study of how organic metabolism forms precondition for the generation of life.
 

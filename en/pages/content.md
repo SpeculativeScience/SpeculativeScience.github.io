@@ -1,6 +1,6 @@
 # The Content of Philosophy
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 If the purpose of philosophy is knowledge, then the question arises as to *what* knowledge it is, and what is to be known. To put it another way: the examination of philosophy’s purpose leads us to the nature of its knowledge as well as its object. In this twofold respect, philosophy distinguishes itself from the empirical sciences on the one hand, and from theology on the other.
 

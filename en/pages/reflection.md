@@ -1,6 +1,6 @@
 # Reflection
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 Essence is non-immediacy, the self-negation of being. It does not pass into something else, only posits the other as its other, but only through this positing does it become what it is, essence. The indifference of essence remains with itself in every externality because essence includes within itself the infinite determinations of being. Because of the infinite simplicity of essence, which contains all being only as an ideal within itself, being is also contained within it as non-being.
 

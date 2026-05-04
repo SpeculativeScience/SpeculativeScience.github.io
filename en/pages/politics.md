@@ -1,6 +1,6 @@
 # Politics
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
 
 The greatest union of people now constitutes the state, where the personality of an entire people finds its expression. The first element here is the internal organization of the life of the people as a self-contained polity, i.e. constitutional law. Secondly, there is the relationship between peoples who stand external to one another as persons, i.e. international law. Thirdly, the people return from this state of "otherness" to a state of "being-for-itself," in that within the specific state, the individual rises above the particularity of the various peoples through their mutual interaction to attain the universality of humanity, i.e. cosmopolitan law.
 

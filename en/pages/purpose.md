@@ -1,6 +1,6 @@
 # The Purpose of Philosophy
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 The essence of philosophy is best discerned from its purpose. For purpose is, after all, the concept brought into application—the concept realized. Thus, when Cicero and Boethius speak of the consolation that philosophy affords, or when, in everyday life, people speak of a "philosophical demeanor" in the face of pain or misfortune, we can say that philosophy first reveals itself to us by the fact that it repairs and heals a rift or fragmentation, much as Friar Laurence, in *Romeo and Juliet*, reminds the hero, anguished by his banishment, of the "sweet milk of philosophy." What Schiller, in his poem *Melancholy to Laura*, says of love applies equally to philosophy. If he conceives of himself and his beloved as the shattered fragments of the Divine, then love seeks to rejoin these fragments into a whole:
 

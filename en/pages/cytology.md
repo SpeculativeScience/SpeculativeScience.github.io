@@ -1,8 +1,8 @@
 # Cytology
 
-> [ Work in Progress ]
+Attention: This page is a work in progress
 
-> This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
+Note: This webpage is an adapted translation and commentary of Karl Ludwig Michelet's *Encyclopedia Nature* (1876) 
 
 ## Cell Morphology
 

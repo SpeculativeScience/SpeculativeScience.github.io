@@ -1,6 +1,6 @@
 # Actuality
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 In actuality, being reveals itself again, but now for fourth time. This time, however, it is neither indeterminate (pure being), nor immediately determinate (existence), nor even in its existence mediated by essence. Being is now a finitude arising from the mediation of essence, which again assumes the appearance of immediacy, but now the positedness of being is now its self-positing, so that mediation through itself has returned to immediacy. Actuality has its essence in itself, and conversely, it is essence that includes its existence within itself and posits it from itself.
 

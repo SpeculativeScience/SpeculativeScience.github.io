@@ -1,6 +1,8 @@
 # Prehistory
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Philosophy of History, Vol. I* (1879) 
+Attention: This page is a work in progress
+
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Philosophy of History, Vol. I* (1879) 
 
 The first element of the classification of the prehistoric world is the form of prehistoric time, that is, the natural and logical elements, conceived as the abstract categories under which it must be subsumed. These constitute the conditions that constitute the *when* of the prehistoric world, i.e. its past. The second aspect is the absolute present of the prehistoric world, its enduring content or actuality, conceived of as the *what* of the prehistoric world. However, since this content is determinate and so cannot last an eternal duration, prehistoric time must, in the third instance, undergo its dissolution. To its conceptual genesis and its factual existence, its passing away—its transience and eventual end—must necessarily be appended, for this marks the point at which prehistory becomes actual history.
 

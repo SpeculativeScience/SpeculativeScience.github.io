@@ -1,6 +1,6 @@
 # Appearance
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 Because essence is what appears, all its content is contained and presented in the appearance. But since the content of essence has become an appearance, the appearance becomes the very presentation of essence within itself. However, essence reasserts itself against the essential existence it stands behind, positing it as only being its appearance, so essence and appearance have exclude themselves from each other. Finally, the essence behind the appearance also enters into appearance, and both essence and appearance become moments of the essential relation.
 

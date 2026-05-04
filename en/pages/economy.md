@@ -1,6 +1,6 @@
 # Political Economy
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Natural Law, Vol. II* (1866) 
 
 In observing the satisfaction of drives enter the sphere of ethicality, we see nothing other than the mediation of these particular ends by freedom itself. This was not the case in antiquity. The well-being of the individual was not secured through the free activity of all, but through the labor of the slave. The free citizen, who perceives themselves as a living member of the body politic, becomes consciousness of the universal ends of public life. The enjoyment of domestic life for the free citizen is a product of their own property, whereas for the slave, who is excluded from the enjoyment of property by being the property of another, the reproduction of their existence as a slave constituted the wage paid to them by the master in exchange for their labor. There existed no laws, not even laws of blind necessity, by which the free activity of all could generate the particular well-being of each individual. Political economy had yet to become a science at this time, for it derives its being from the fact that its subject matter encompasses and comprehends the production undertaken by individuals as interwoven into collective production of the society as a whole.
 

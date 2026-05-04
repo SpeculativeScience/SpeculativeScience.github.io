@@ -1,6 +1,6 @@
 # Decision
 
-> This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
+Note: This webpage is a direct translation of Karl Ludwig Michelet's *Anthropology and Psychology, Vol. III* (1840) 
 
 The freedom that the mind acquires through its drives and its dependence on them is still contingent upon the existence of an actual goal that it is driven towards. Yet, it is now within the power of the subject to determine which object given to it shall fulfill its ends, to awaken the drive that has developed within it to the point of passion. This drive constitutes its interest, the first determination of the reflective will. The interest itself, however, is not imposed upon the mind from the outside, but precisely because it can prioritize the system of drives as it sees fit, it secondly has the the power to choose what will satisfy it or not. As a product of nature, the will is faced with a contradiction, that it is free from every individual drive and yet not free from drive as such. The mind strives to resolve this contradiction by, thirdly, elevating the individuality of drives into the universal drive for happiness, thereby contradicting the contradiction of the independence and dependence of the will, since the underlying autonomy of the individual drives makes their integration into a true universality impossible.
 
