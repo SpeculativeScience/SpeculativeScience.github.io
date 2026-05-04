@@ -30,63 +30,63 @@
 
 [Logic]()
 
-  * [Being]()
-    * [Quality](pages/quality.md)
-    * [Quantity](pages/quantity.md)
-    * [Measure](pages/measure.md)
-  * [Essence]()
-    * [Reflection](pages/reflection.md)
-    * [Appearance](pages/appearance.md)
-    * [Actuality](pages/actuality.md)
-  * [Concept]()
-    * [Subjectivity](pages/subjectivity.md)
-    * [Objectivity](pages/objectivity.md)
-    * [Idea](pages/idea.md)
+  * # Being
+  * [Quality](pages/quality.md)
+  * [Quantity](pages/quantity.md)
+  * [Measure](pages/measure.md)
+  * # Essence
+  * [Reflection](pages/reflection.md)
+  * [Appearance](pages/appearance.md)
+  * [Actuality](pages/actuality.md)
+  * # Concept 
+  * [Subjectivity](pages/subjectivity.md)
+  * [Objectivity](pages/objectivity.md)
+  * [Idea](pages/idea.md)
 
 [Nature]()
 
-  * [Mechanics]()
-    * [Mathematics](pages/math.md)
-    * [Dynamics](pages/dynamics.md)
-    * [Astronomy](pages/astronomy.md)
-  * [Physics]()
-    * [Electrodynamics](pages/electrodynamics.md)
-    * [Thermodynamics](pages/thermodynamics.md)
-    * [Chemistry](pages/chemistry.md)
-  * [Organics]()
-    * [Geology](pages/geology.md)
-    * [Cytology](pages/cytology.md)
-    * [Zoology](pages/zoology.md)
+  * # Mechanics
+  * [Mathematics](pages/math.md)
+  * [Dynamics](pages/dynamics.md)
+  * [Astronomy](pages/astronomy.md)
+  * # Physics
+  * [Electrodynamics](pages/electrodynamics.md)
+  * [Thermodynamics](pages/thermodynamics.md)
+  * [Chemistry](pages/chemistry.md)
+  * # Organics
+  * [Geology](pages/geology.md)
+  * [Cytology](pages/cytology.md)
+  * [Zoology](pages/zoology.md)
 
 [Psychology]()
 
-  * [Faculty of Feeling]()
-    * [Sentience](pages/sentience.md)
-    * [Dreaming](pages/dreaming.md)
-    * [Consciousness](pages/consciousness.md)
-  * [Faculty of Cognition]()
-    * [Sensibility](pages/sensibility.md)
-    * [Imagination](pages/imagination.md)
-    * [Thinking](pages/thinking.md)
-  * [Faculty of Desire]()
-    * [Motivation](pages/motivation.md)
-    * [Decision](pages/decision.md)
-    * [Free Will](pages/freewill.md)
+  * # Faculty of Feeling
+  * [Sentience](pages/sentience.md)
+  * [Dreaming](pages/dreaming.md)
+  * [Consciousness](pages/consciousness.md)
+  * # Faculty of Cognition
+  * [Sensibility](pages/sensibility.md)
+  * [Imagination](pages/imagination.md)
+  * [Thinking](pages/thinking.md)
+  * # Faculty of Desire
+  * [Motivation](pages/motivation.md)
+  * [Decision](pages/decision.md)
+  * [Free Will](pages/freewill.md)
 
 [Law]()
 
-  * [Private Law]()
-    * [Legality](pages/legality.md)
-    * [Morality](pages/morality.md)
-    * [Family](pages/family.md)
-  * [Public Law]()
-    * [Economics](pages/economy.md)
-    * [Civics](pages/civics.md)
-    * [Politics](pages/politics.md)
-  * [Historical Law]()
-    * [Pre-History](pages/prehistory.md)
-    * [History](pages/history.md)
-    * [Post-History](pages/posthistory.md)
+  * # Private Law
+  * [Legality](pages/legality.md)
+  * [Morality](pages/morality.md)
+  * [Family](pages/family.md)
+  * # Public Law 
+  * [Economics](pages/economy.md)
+  * [Civics](pages/civics.md)
+  * [Politics](pages/politics.md)
+  * # Historical Law
+  * [Pre-History](pages/prehistory.md)
+  * [History](pages/history.md)
+  * [Post-History](pages/posthistory.md)
 
 
 [Spirit]()
