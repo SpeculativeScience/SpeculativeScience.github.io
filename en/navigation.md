@@ -35,7 +35,7 @@
   * [Reflection](pages/reflection.md)
   * [Appearance](pages/appearance.md)
   * [Actuality](pages/actuality.md)
-  * # Concept]()
+  * # Concept
   * [Subjectivity](pages/subjectivity.md)
   * [Objectivity](pages/objectivity.md)
   * [Idea](pages/idea.md)
@@ -93,7 +93,7 @@
   * [Philosophy]()
 
 
-[gimmick:themechooser](Choose theme)
+[gimmick:themechooser](Themes)
 
 <!-- A more complex navigation example: ----------------------------------------
 

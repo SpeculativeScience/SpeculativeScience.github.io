@@ -115,7 +115,7 @@ You don't need to read below here or do anything at all if you're only intereste
 Update MDwiki
 -------------
 
-> Current version: [0.6.2](http://git.io/HBH5Wg).
+> Current version: [0.7](http://git.io/HBH5Wg).
 
 1. Go to https://github.com/Dynalon/mdwiki/releases/latest
 1. Click on the green button on that page to download the latest release
