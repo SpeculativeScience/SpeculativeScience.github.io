@@ -2,21 +2,13 @@
 
 Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
+![](uploads/images/Quantity.png)
+
 The contradiction of quantity lies more precisely in the fact that, because of the independence of the many ones, their boundary with respect to one another is restored, and at the same time, because they are all equal as ones, that their boundary also remains abolished. Finitude reappears in infinity and at the same time disappears again. The concept of quantity is therefore to be a limit that is not limited, the limit can be set anywhere but it is indifferent to wherever it is set. A meadow remains a meadow whether it is a hundred or fifty feet long, its quality as a meadow is the same whether it is great or small. If quality constitutes the being of something, then quantity is indifferent to this being. The common definition of quantity or magnitude, as that which can be increased or decreased, contains this correct moment of the indifference of the limit, but is deficient in that it already includes what is to be defined as a part of its definition. To define magnitude, one must not say that it is that which can be increased or decreased, since one has not yet explained what increasing or decreasing means for quantity. Instead, quantity must first be considered from the side of infinity as pure magnitude, then from the finitude as number, and lastly in the relation of both sides to each other as the ratio.
 
 ## Magnitude
 
-```
-Attraction ⟹ Continuous
-
-Repulsion ⟹ Discrete
-
-[ Continuous → Discrete ] ⟹ Unit
-
-[ Continuous ← Discrete ] ⟹ Amount
-
-[ Continuous ⇄ Discrete ] ⟹ Magnitude
-```
+![](uploads/images/Magnitude.png)
 
 The first thing to be emphasized about quantity is the indifference of the limit. For this is the determination that has resulted from the ideality that all ones are one and the same. But even in this abolished limit, the two sides of attraction and repulsion that were connected in quantity still remain in it. On the side of attraction, the unity of ones is its continuity, while on the side of repulsion, the plurality is ones its discreteness. Yet, both sides are again inseparably linked to one another.
 
@@ -32,19 +24,9 @@ On the other hand, holding to the side of finitude, each one stands apart from t
 
 But if pure discreteness, like pure continuity, is the complete cessation of the limit as well as its sole positing, then what remains of quantity? Only the unity of discreteness and continuity exists, but not as an ideal unity of mere moments of quantity. No matter how long one might want to proceed out into the infinitely great or small, every stage at which one stops is a reality where continuity can be found in discreteness and discreteness can be found in continuity. Thus, there are no discrete or continuous magnitudes in and of themselves.
 
-## Quanta 
+## Quantification
 
-```
-[ Unit → Amount ] ⟹ Extensive Quantity
-
-[ Unit ← Amount ] ⟹ Intensive Quantity
-
-[ Extensive Quantity → Intensive Quantity ] ⟹ Infinitesimal
-
-[ Extensive Quantity ← Intensive Quantity ] ⟹ Infinity
-
-[ Extensive Quantity ⇄ Intensive Quantity ] ⟹ Ratio
-```
+![](uploads/images/Amount.png)
 
 That discreteness is posited in every continuity implies that every magnitude is limited and therefore finite. There are only finite magnitudes because there exists no maximum or minimum quantity. Finite magnitude is therefore a quanta, the quantitative exists only as a quanta. Just as the one and the many generated the moments continuity and discreteness, so too will the moments of quanta generate its own mediation of categories.
 
@@ -64,15 +46,7 @@ The concept of degree can be made even more explicit by way of example: Take r t
 
 ## Ratio 
 
-```
-Ratio ⟹ C = A/B
-
-C ⟹ Quality
-
-A/B ⟹ Quantity
-
-Ratio ⟹ Measure
-```
+![](uploads/images/Ratio.png)
 
 If according to the first contradiction, the immanent determinacy is changed by an external determinacy, while in the second contradiction, the immanent determinacy remains unchanged, then in order to resolve both contradictions, we now have to recognize how they are interconnected. The answer requires the concept of externally determined quantity that remains what it is despite quantitative change. The concept of quantity that remains the same through quantitative change is the ratio. For if the external quanta of a variable series, each two in relation to each other, exhibit only the same quantitative determination relative to each other, then their ratio remains the same regardless of their change in series, whether as 1 : 2, 2 : 4, 4 : 8, etc. 
 

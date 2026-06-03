@@ -4,9 +4,7 @@ Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encycloped
 
 ## Concept
 
-```
-Universal ( Particular ( Individual ( Inner ⟲ Outer ) ) )
-```
+![](uploads/images/The%20Concept.png)
 
 Firstly, the concept is the universality that discovers and comprehends itself in all things. Secondly, the free development of the universal into many distinct universalities forms the particularity of the concept. Thirdly, what is particular to each particular universality is the individuality of the concept.
 
@@ -38,31 +36,13 @@ If the individual appears to be the pinnacle of the development of the concept, 
 
 ## Judgment
 
-```
-Universal ⟹ U
-
-Particular ⟹ is
-
-Individual ⟹ I
-```
-
-### Judgment of Inherence (Attribution)
-
-```
-Positive Judgment: I is U
-
-Negative Judgment: I is not U
-
-Infinite Judgment: I is U ⟺ I is not U
-
-	Positive Infinite Judgment: I is I
-
-	Negative Infinite Judgment:  I is not U1 ⟹ I is not U2 ⟹ ...
-```
+### Judgments of Inherence
 
 In the judgments of inherence, the quality of the predicate is always elevated to the form of a concept, to the extent that it is inherently related to a particular subject. Since the predicate, as a quality, is immediately identical with the being of the subject, one could also designate these judgments as judgments of being. The subject remains fixed and unchanging, while its predicates between the presence of a quality, the absence of a quality and presenting itself itself as a quality.
 
-#### Positive Judgment
+#### Judgment of Universality
+
+![](uploads/images/Judgment%20of%20Universality.png)
 
 If we reflect on the original division of the concept, then we have a universality related to and identified with an individual (I is U). This is precisely the first of the qualitative judgments — the judgment of universality. Since universality contains what the individual actually is, the copula is an affirmation of the relationship between subject and predicate, a positive judgment. Because in the positive judgment the individual and the universal are related to each other only through the pure "is" of the copula, their relationship is also only that of indeterminate being, which conveys that this is a judgment of being. The individual is the universal and nothing more. An example of such a positive judgment is: "The rose is red". If the qualities belong to the things in and of themselves, then the judgments of this first stage are already objective judgments even though they are formed subjectively in thinking. A purely objective judgment of this kind, on the other hand, is an action, in which any change in the external world, as a predicate, relates back to the subject, as its originator. The action itself forms the logical copula. 
 
@@ -70,55 +50,54 @@ Since the subject and predicate are qualitative others to each other, it is enti
 
 However, even if the contradiction of content is reconciled, the logical form has thereby only placed itself in the double contradiction of identifying the particular with the universal and the universal with the particular. This identification, required by its content, must now also be presented in its form. What is presented by the form is the indeterminate sameness between the two extremes in the copula, contradicting the determinate content in each. The subject is not identical to the predicate, the universal is not identical to the individual. Therefore, in order to establish the identity of subject and predicate in form as well, what is present must first be posited, namely, how the subject and predicate are different. To this end, subject and predicate can no longer be related to one another through the indeterminate being of the copula. Since subject and predicate are not identical, they can also be negated. The individual, if it is to ascend to the universal, it must become the particular. Conversely, the universal, if it is to descend to the individual, it must also become the same particular. The positive judgment of the universal will thus become a negative judgment, the judgment of the particular.
 
-#### Negative Judgment
+#### Judgment of Particularity
+
+![](uploads/images/Judgment%20of%20Particularity.png)
 
 The progress of the second judgment of inherence consists in the fact that only in the negative judgment does the original division of the concept truly come into effect, since the subject and predicate are actually kept separate, whereas in the positive judgment, the copula identified them arbitrarily. The copula is no longer the mere "is", but is disjunctively united with its negation, the "is not". Such completely negative judgments now seem to abolish any relationship between subject and predicate, e.g. the rose is not red, the person decided not to act. The universal predicate does not apply to the individual rose, even if there are many roses that are red, the judgment excludes this particular one. Likewise, the universal quality of a person's action cannot be attributed to them if done involuntarily, or conversely, this particular one is not included among the many decisions that can arise from his inner universality. The negative judgment is the manifestation of the contingency contained in the positive. But this is not the nothingness of absolute indeterminacy, the contradictory opposition to a positive assertion, rather, the judgment absorbs the negative as part of its character. Since a quality is negated by the formula I is not U, this negation does not belong solely to the copula, as if only the red were negated in order to give the rose nothingness as a predicate. Instead, since the negation of the copula is made a predicate, the quality of not being red is still positively related to the rose, for the negation of an individual quality has only the meaning of being the negation of this particular quality, but not of another particular quality. 
 
 That the rose, as the owner of all its qualities, possesses not this single quality, but another particular quality, does not yet exhaust its nature, a multitude of particularities must be inherent in it. This now seems to be expressed in both logical forms I is P and U is P, whereas previously this expression was only asserted. Through this first approximation of the terms of the judgment to one another, their absolute equalization has still not occurred and the contradiction is still not entirely resolved. P remains the broader concept compared to I and the narrower concept compared to U. In the judgment I is P, only one particular quality has replaced another, e.g. the rose is white instead of red. Conversely, in the form U is P, the rose as universal has not one particular quality, but a multiplicity of qualities that are inherent to it. The formulas that postively express the judgments of particularity are negated: I is not P and U is not P. By immediately converting the negation of the copula to the predicate, the formula again reads: I is non-particular and U is non-particular. In other words, in order for the absolute equivalence of form and content to occur, a second approximation must take place. In relation to I, the negation of particularity means individuality, but in relation to U, the negation of particularity means universality. Thus we have the double formula: I is I and U is U, the complete identification of each side of the judgment with themselves.
 
-#### Infinite Judgment
+#### Judgment of Individuality
+
+![](uploads/images/Judgment%20of%20Individuality.png)
+![](uploads/images/Negative%20Judgment.png)
+![](uploads/images/Infinite%20Judgment.png)
+
 
 The next form of judgment is the identical judgment in its two forms I is I and U is U. The judgment has now completely conformed to the law of identity, since for the judgment not to contradict itself, the subject and predicate must be completely identical in form and content. The identical judgment denotes only an equivalence of form at the expense of content. The identical judgment is a completely empty, contentless proposition, otherwise known as a tautology, e.g. The rose is a rose. If the identical judgment is a judgment that is no longer a judgment, then it contradicts itself even more, instead of obeying the principle of contradiction. The identity of the subject and the predicate, however, is the opposite of the contradiction. What we have in such a judgment is this: non-contradiction is a contradiction, i.e. the identity of the subject and the predicate is what constitutes their non-identity. This contradiction can only be resolved by positing a non-identity of content, regardless if they are identical in form. The judgment I is I, if it is to remain a judgment, one of the two individualities must be completely different individuality from the other. For the two individuals are in fact originally separated from each other. Of course, the difference between them is now too great, whereas before there was no difference at all, the original division was therefore an absolute one. For each of the many is indeed one, which the other is, but each excludes the other so absolutely from itself that no relationship between the two is possible anymore, and the copula strives in vain to connect them together. If the copula nevertheless undertakes this, then the contradiction between form and content in the judgment is brought to its highest point instead of being resolved.
 
 The three forms of the infinite judgment correspond to the moments of the logical category of being-for-itself. The identical judgment represents immediate being-for-self, the non-sensible judgment sets the individual being-for-self in opposition to another individual being-for-self, and in the infinite judgment, being-for-self returns to itself from the loss of itself into the other. Since individuality has become the negation of all other individualities, it has positively related back to itself. Thus, the identical judgment is indeed restored, but has lost its emptiness and has been filled with content in the predicate. For the negation of all individualities through the copula must again be made into a predicate. Instead of saying that the individual is not this individual, the proposition should rather be expressed: the individual is not this individual. However, if we conceive this negation in sequence as the negation of all individualities, this is the infinite in contrast to all these finite, i.e. determinate and negative, or as the negation of the negation, the affirmation of all individualities, in which these are preserved as the universal. Neither subject nor predicate, neither the individual nor the universal, have remained abstract determinations relative to one another in this cycle of the movement of the judgment of inherence. Rather, after the predicate had moved from U through P to I, it has now become the essence of the subject. But the subject, which has ceased to be the merely qualitative concept of individuality, has, in relation to the predicate as its essence, assumed the character of the individual This, as an appearance of essence. And precisely through this relation to its essence, the subject has rediscovered itself and has thus returned to identity with itself, it has become a representation of its own essence. The judgment of being or quality has become the judgment of essence.
 
-### Judgment of Reflection (Class)
-
-```
-Individual Judgment: This I is U
-
-Particular Judgement: Some Is are U ⟺ Some Is are not U
-
-Universal Judgment: All Is are U
-```
+### Judgments of Reflection
 
 If the judgments of essence have this name because the predicate has become the totality of the moments of the concept, it thereby has also changed its relationship to the subject. Since the predicate can no longer inhere in the subject as a qualitative determination, but is instead the ground for the subject, the judgments of inherence have become judgments of reflection. If we consider not the nature of the predicate, but only that of the subject, then the latter is still the individual and the form of the judgment is thus I is U. In this respect, such a judgment is positive, but a positive judgment of essence, not of being or quality. Because the subject has changed alongside the predicate, "this" individual is no longer simply an existing quality, it must sublate the immediacy of the "this" into the mediation of essence. As an individual "this," as a finite being-for-itself, the subject is quantitatively determined. The path of the subject therefore consists in elevating its quantitative appearance into the form of essence.
 
 #### Individual Judgment
 
+![](uploads/images/Individual%20Judgment.png)
+
 Since the subject of the individual judgment has acquired the meaning of being only a "this," the appearance is initially only a completely isolated instance of an essence. The form of judgment has the general meaning: "This individual, to the exclusion of every other individual, belongs to this universal." Because it remains doubtful whether essence has truly appeared in this individual appearance, the judgment can hardly be regarded as a positive one in terms of its content, since in it the two sides of its content should correspond to each other. A "this" does not express the universal content of essence, so the individual is not the universal it supposedly belongs to. But since this is no longer the predicate that is alien to its subject, but rather the subject that is alien to its predicate, the subject must therefore be held to the standard established by the essence and judged accordingly. With this, the negation is flipped from the predicate to subject. We can no longer apply the negation of the copula to the predicate, but only to the subject, i.e. the subject is not-this predicate. Just as we had to free the predicate from its individuality in the judgments of inherence, now we are tasked with freeing the subject. The first enrichment of the subject is that while this subject might not belong to the universal, some other subjects belong to it, and this is, in essence, its particularity. 
 
 #### Particular Judgment
+
+![](uploads/images/Particular%20Judgment.png)
 
 In the particular judgment, the positive form is restored: P is U. Some particular individuals belong to the universal, i.e. a particular set is of this kind according to its nature. However, the negative form is also even more immediately contained in the positive judgment than in the individual judgment. For if a predicate applies only to some subjects of the same kind, it is immediately self-evident that the others necessarily lack it. The particular judgment is an even greater contradiction than the individual one, since only one individual claimed to represent the essence. But if some are the subject, then they act together as a particular, i.e. as a particular universality, they simultaneously claim to the the universal while being a narrower universality than the essential universal. Since the predicate has not yet reached its expression adequate to it, the subject must be enriched further to be commensurable to the predicate. But since the subject must not at the same time lose the character its an appearance in relation to its essence, the particulars in the subject must nevertheless remain appearances so that essence can completely reflects itself in its other. The appearance is thus raised to universality, in which essence has now fully entered into appearance as the totality of individuals in the universal judgment.
 
 #### Universal Judgment
 
+![](uploads/images/Universal%20Judgment.png)
+
 In the universal judgment, the subject has elevated itself to the last category of quantity: "All of these individuals belong to this universal." The subject has now completed its dialectic and has become adequate to its predicate, just as the predicate underwent earlier. What is essential to a category must apply to all individuals of that category. The natural defect of the universal judgment, though, consists in the fact that, despite the formal equivalence of the two sides to each other (U is U), they have not yet become identical. Despite the identity of their content, they are only different forms relative to one another, e.g. the whole and the parts, force and manifestation, inner and outer. If essence represents the complete unity into which totality has regressed, the latter is never exhausted. All people, all bodies, etc. are never something given to experience or even to thought, and if essence is the true infinite, then appearance only represents an endlessness that never resolves. Instead of totality, we always have only multiplicity. Totality is supposed to be universality, but it cannot free itself from the form of individuality, it is only the universality given in experience. Such a conception of universality is therefore presupposed since it is assumed that since something applies to many individuals, that it must also belong to all of them. Such judgments of reflection or essence are therefore experiential judgments and necessarily share the defect of all experience, namely, being incomplete and irrefutable. But since the subject, as the individuality that is supposed to include all individuals within itself, has completed its movement through three stages of the concept, it has completely conformed to its essence. In this way, the logical form of the judgment U is U has finally acquired content that is adequate to its form. With this, however, the opposition between essence and appearance is completely resolved, the essential universality has risen from appearance to actuality. What essentially belongs to all individualities of a category belongs to the category as such, belonging necessarily to every instance of it. The category is thus expressed in one just as purely and clearly as in some and in all. Instead of being restricted by quantity, since each of these represents the category, the individual as such is necessarily related to its category, so the judgments of reflection are thus subsumed into the judgments of necessity.
 
-### Judgment of Necessity (Category)
-
-```
-Categorical Judgment: I is P
-
-Hypothetical Judgment: P is U
-
-Disjunctive Judgment: U is P
-```
+### Judgments of Necessity
 
 In judgments of necessity, the opposition between subject and predicate is balanced by the fact that the copula has become their necessary relationship. However, since the relation of necessity expresses the appearance of the independence of the related, both sides are also opposed to each other as the contingent and the necessary, due to the persistent logical distinction of individuality and universality. Since the contingent, however, is in turn the necessary phenomenon that cannot be impossible, these judgments are not merely judgments of the subordination of the subject to the predicate, but equally judgments of the inherence of the predicate in the subject. On the one hand, the necessary universal comprehends the contingent individuality within itself. On the other hand, the existing individual is also in turn the expression of the necessary universal, without which it would only be a possibility. Through this reciprocity, however, necessity itself, as the relation governing the members, is the only actual content in them. The three categories of necessity — the relation of substantiality, the relation of causality, and the relation of reciprocity — directly correspond to the three judgments of necessity: the categorical, the hypothetical, and the disjunctive.
 
 #### Categorical Judgment
+
+![](uploads/images/Categorical%20Judgment.png)
 
 When the universal category actualizes itself as a predicate in the individual subject, the latter becomes something incidental to the category. This judgment, based on the relation of substantiality, is the categorical judgment. It has acquired the power of predication for itself because the power of judgment can only determine what is logically necessary to the subject. However, the necessary content of the judgment is simultaneously combined with the form of the mere immediacy of a statement. Since the substance, as the higher category, inheres in all its subcategories, it is irrelevant what level of category is made its predicate. "The rose is a flower" is just as much a categorical judgment as "The rose is a plant". Whether the rose is red is contingent, but it is necessary that the rose is a plant. The categorical judgment is a necessary positive judgment, whereas qualitative judgments are only contingently positive. The same applies to the negative judgment at both levels.
 
@@ -126,33 +105,35 @@ In the categorical judgment, the substantial relationship is expressed: "The ind
 
 #### Hypothetical Judgment
 
+![](uploads/images/Hypothetical%20Judgment.png)
+
 The hypothetical judgment is the exact opposite of the categorical one, since in the latter only the immediate existence of the terms is expressed, not the necessity of their relationship. However, because in the hypothetical judgment only the necessity of the relationship is unequivocally established, and not the immediate existence of the terms, it becomes necessary that with the existence of one term, the existence of the other necessarily follows from it. The occurrence of the conditioning factor, and hence also of the conditioned, becomes contingent. The copula is, on the one hand, the formal necessity of the relationship. But on the other hand, since the realization of this necessary bond is only conditional, the copula is now fulfilled by the term "if". Since it depends on some particular existence whether the general relationship becomes effective, the logical form of this judgment can be conceived as P is U. Since with the occurrence of one contingency the other immediately becomes a necessity, just as cause and effect exchange their determinations for each other, it is likewise important which side of the judgment is the antecedent or consequent. Hypothetical judgments can therefore be reversed. Just as the hypothetical judgment is derived from the contingency of the terms, the contingency of the terms is derived from their content. With the contingency of the content, the hypothetical nature of existence has disappeared. This representation of the universal in the particulars is, as the existence of the necessary bond of the members, is the necessity of their existence in the disjunctive judgment.
 
 ### Disjunctive Judgment
+
+![](uploads/images/Disjunctive%20Judgment.png)
 
 The disjunctive judgment has the form U is P in that the category divides itself into its kinds. The category is necessarily the totality of its kinds, none of which it can lack. Such a judgment combines the immanent necessity of the relation, as seen in the hypothetical judgment, with the necessary existence of the each term that was present in the categorical judgment. The copula now takes the form of the disjunctive connective "either-or" and is fully expressed in its all the kinds that completely define the category. With this we see that the judgment also expresses the category of reciprocity because the category is just as much the cause of its kinds as the kinds are the cause of the category. Because the substance has become the subject that rediscovers the universality of the category in its predicate, it no longer relates to it incidentally, but as the universal particularity to its particular universalities, and so both sides of the judgment are completely adequate to one another. For the trichotomy of the concept is objectively preserved in it. 
 
 If the disjunctive judgment appears to be most complete form of judgment achieved to date, this is further shown by the fact that in it the positive and negative forms have reached complete equilibrium. For, since the category is either one or the other kind, it appears to be only one to the exclusion of the other. However, since in disjunction a different one is always posed in turn, and then each time the others are negated, all the particularities of the general category alternately meet the fate of being posed and negated. The negative form of the disjunctive judgment: "The category is neither this nor that kind," thus coincides entirely with the positive form: "The category is both this and that kind." The three disjunctions of dialectical reason, "Either-Or," "Neither-Nor," and "Both-And," are united in the disjunctive judgment, ultimately making it the most complete of the judgments considered so far. Because the category not only affirms one kind and denies the other, but also interprets itself in the totality of its kinds, each particularity presents the entire universal as something actual. In other words, in a more true way than in the identical judgment, the original division of the concept is completely abolished since it has now rediscovered itself in its proper reality. Despite this reconciliation of subject and predicate, not only is the form of the judgment preserved, but the content is adequate to it. These are judgments of the concept because the universal presents itself in the particular and the individual. The individual subject is related to its particular predicate to its general concept, and thus is what it ought to be.
 
-### Judgment of the Concept
-
-```
-Assertoric Judgment: This I is P/U
-
-Problematic Judgment: This I is not P/U
-
-Apodictic Judgment: This I, given P, is U
-```
+### Judgments of the Concept
 
 #### Assertoric Judgment
+
+![](uploads/images/Assertoric%20Judgment.png)
 
 The assertoric Judgment evaluates how close or distant a member of a category is to the category itself. The subject is an individual member of a class, whereas the predicate expresses the property which makes the subject a member of said class. Some examples of an assertoric judgments would be “This house is bad.” or “That guy is funny.” If the house was cluttered and lacked running water, that would distinguishes that house from good houses which would have these qualities. Therefore, what makes the house bad is its distance from its ideal (however, it is unnecessary to include this information in the judgment for it to be assertoric). For some guy to be funny, the notion proof of his humorousness would be in his telling of jokes that are funny, and so on.
 
 #### Problematic Judgment
 
+![](uploads/images/Problematic%20Judgment.png)
+
 The problematic judgment is the negation of the assertoric judgment, whether the instance is a member of the category or not is not determined. What is expressed by this judgment is whether the subject is what the predicate says it is or not. The house could be bad, or it might not, but it cannot be both. The assertoric and problematic Judgments are both declarative statements which express the relation between subject and predicate, but neither can justify the relation. New information is needed to substantiate this absence, which is where the apodeictic judgment comes in. The subject and predicate of the original statement are each split in two, containing within themselves their own subject and predicate: This house is cluttered, cluttered houses are bad, so this house is bad.
 
 #### Apodictic Judgment
+
+![](uploads/images/Apodictic%20Judgment.png)
 
 The copula of the apodictic judgment adds the conjunction "because" in which it provides a reason for why the subject corresponds to or contradicts its predicate. The reason, as a quality, contains the content of the predicate within itself. The quality is, for example, good, just as the predicate is good, and this goodness therefore also pertains to the individual subject. The original division of the concept in the form I is U has thus been carried out to its full conclusion in the apodictic judgment. But even if each of the three terms—subject, copula, and predicate—the concept, the ought, which has fulfilled its determination — all has the same content, they nevertheless still appear, in the form of the judgment, as separate entities. The apodictic judgment is thus, as a judgment, the completion of the judgment in general, in which the concept precisely summarizes the totality of its moments into its universal subjectivity. Despite their original division, the independent moments of the concept are an inseparable unity. The subject is elevated to its universality, the predicate has become a single actuality, and the copula is the content-related middle in which individuality, through its particularity, is itself universality. The disjunction does not merely take place, as in the disjunetive judgment, between particularity and universality, but is now fully developed, in that the concrete middle of the copula, as particularity, has disjoined itself into the individuality of the subject and the universality of the predicate. Now, even if all the predicates mentioned above can be used for apodictic judgments, truth is nevertheless the predicate of an apodictic judgment.
 
@@ -164,21 +145,15 @@ With this completion of the judgment, however, it has also sublated itself and a
 
 The three moments of the judgment: subject, copula, and predicate, have become three parts of the inference. While these three parts are combined and separated, they are nevertheless only the general relationships that comprise the unity of the concept. As the parts are conceived after their separation, they are the extremes, or what was called the subject and the predicate in the judgment. Whereas the connections of the inference are now also formed by an independent part of the concept, the middle term, or what was called the copula. The three parts of an inference are thus the terminus minor, the terminus major and the terminus medius. Since the identity of the extremes posited by the middle term is now mediated rather than immediate, the middle term connects the extremes because each of them were previously related to the middle term and posited as identical with it. Thus, the syllogism contains three relations, which in turn constitutes a universal relation that unites the three.
 
-Inferences will develop into a totality of stages like demonstrated earlier in judgments. Since each of the terms of the inference initially appears as separate and independent, they are qualitatively distinct from each other as inferences of existence. But because the terms of the qualitative inference are interchangible, their qualitative differences are abolished and are united in the inference of transitivity. Furthermore, since each of the terms are transitive, the terms of the inference reflect themselves into one another as inferences of reflection. However, since the terms of the inference are completely defined only in their unity, the inferences of necessity bring the concept to its completion, which having fully realized itself in reality as objectivity.
+Inferences will develop into a totality of stages like demonstrated earlier in judgments. Since each of the terms of the inference initially appears as separate and independent, they are qualitatively distinct from each other as inferences of inherence. But because the terms of the qualitative inference are interchangible, their qualitative differences are abolished and are united in the inference of transitivity. Furthermore, since each of the terms are transitive, the terms of the inference reflect themselves into one another as inferences of reflection. However, since the terms of the inference are completely defined only in their unity, the inferences of necessity bring the concept to its completion, which having fully realized itself in reality as objectivity.
 
-### Inference of Existence
+### Inferences of Inherence
 
-```
-First Figure: I → P → U
-
-Second Figure: P → I → U
-
-Third Figure: I → U → P
-```
-
-The three terms of the inference indeed already begin with the three categories of the concept, individuality (I), particularity (P), and universality (U). Nevertheless, as in the judgments of existence, the terms are purely qualitative determinations that are related to one another. The middle is as independent a quality as the extremes, but at the same time is inherently related to the extremes as qualities. Their progress will consist in the fact that within their own movement, each term gradually takes the place of the other two to counterbalance their qualitative distinction from one another. Each permutation defines the three figures that Aristotle discovered and in whose proof constitutes simply completing its circle of permutations as the dialectic of development does at each of its stages.
+The three terms of the inference indeed already begin with the three categories of the concept, individuality (I), particularity (P), and universality (U). Nevertheless, as in the judgments of inherence, the terms are purely qualitative determinations that are related to one another. The middle is as independent a quality as the extremes, but at the same time is inherently related to the extremes as qualities. Their progress will consist in the fact that within their own movement, each term gradually takes the place of the other two to counterbalance their qualitative distinction from one another. Each permutation defines the three figures that Aristotle discovered and in whose proof constitutes simply completing its circle of permutations as the dialectic of development does at each of its stages.
 
 #### First Figure (I-P-U)
+
+![](uploads/images/First%20Figure.png)
 
 The first figure is the one in which the three terms retain their natural position. Since the individual or the subject, as the narrowest concept, is inherent first in the particular or middle concept, as the broader one, this in turn is inherent in the universal or general predicate, as the broadest concept. Accordingly, this figure takes the form I-P-U. The universality of this figure comes from the fact that the middle is first the subject, in the major premise, and then the predicate, in the minor premise: and thus unites subject and predicate within itself, and can therefore truly unite them. Nevertheless, although its form is absolutely necessary, its content is something entirely contingent because the qualitatively related terms do not necessarily imply one another and so it is completely irrelevant what qualitative content the figure is allowed to denote. 
 
@@ -186,11 +161,15 @@ If the first figure discussed so far is, in the objective sense, an inference th
 
 #### Second Figure (U-I-P)
 
+![](uploads/images/Second%20Figure.png)
+
 Through this changed position of the terms, we have obtained the second figure: U-I-P. Since in the second figure, universality and particularity are united by individuality, the contingency that was already present in the first figure now becomes active since individuality is the most defined by contingency. Universality is united with one of its particularities in that this particularity belongs to an individuality, but this individuality is also included under the universality. In this inference, the middle term (I) is the subject of both premises: I is U and I is P. The basic idea the second figure is that, since two predicates belong to one subject, they are also predicates of each other.
 
 If in the first figure both premises were still unproven and the conclusion proved, then in the second figure the major premise of the first (P is U) is now proven. Now the minor premise (I is P) remains to be proved and so must present itself as the inference of the third figure. U moves into the middle position from the second figure, pushing I to the right extreme, while leaving P to occupy the first place.
 
 #### Third Figure (P-U-I)
+
+![](uploads/images/Third%20Figure.png)
 
 The third figure presents itself as P-U-I, i.e. universality is the intermediate link between particularity and individuality. This inference means that if two subjects have one and the same predicate, their relationship to each other is such that only the universal that both subjects have in common unites them. However, they have not yet been united with each other because their particular nature has been left out of the equation. In this way, each of the two subjects refers only to itself, remaining for itself to the exclusion of the other.
 
@@ -202,21 +181,17 @@ The quantitative or mathematical inference has the form U-U-U because all terms 
 
 Since the universal center of the quantitative inference that runs through all its members simultaneously allows the appearance of qualitative differences in the extremes of the inference to persist, this means nothing other than that essence presents itself in appearance, and thus the lost distinction of the members is restored without their identity disappearing, and this is precisely its character as essence. The result of the inferences of existence is thus that its qualitatively distinct members, by exchanging their positions, have indeed risen to an essential identity, without having lost their original differences: only that these have now have become moments of essence, whereas before they were independent qualities.
 
-### Inference of Reflection
-
-```
-Allness: I → P[I → U] → U
-
-Induction: U → I[U → P] → P[U → I]
-
-Analogy: P[U → I] → U[P → I] → I[P → U]
-```
+### Inferences of Reflection
 
 #### Inference of Totality
+
+![](uploads/images/Inference%20of%20Totality.png)
 
 The reason why totality is the particular that forms the middle term between the individual subject and the universal predicate lies precisely in the fact that the inference of totality is derived from the quantitative inference. Just as in this inference all terms are bound together by quantitative equality, the quantitative equality of essence and appearance is only be achieved if the middle term is the totality of particulars, since only in this way does it include both the individual appearance and the particular species in order to subsume both under the essential universal. The total collection of particulars (P) is the middle term of the first figure because it is the predicate of the individual (I) in the minor premise and the subject of the universal (U) in the major premise, summarizing the differences of individuality in a general way into the identity of essence. Since essence can initially only represent itself through all individual entities, the first conclusion of essence is one in which every individual entity is united with essence through all individual phenomena.
 
 #### Inference of Induction
+
+![](uploads/images/Inference%20of%20Induction.png)
 
 Because in the inference of totality only the conclusion was proven by the major premise, individuality as such has become the middle term, it has been transformed into the second figure (U-I-P) that is precisely the inference of induction. But if individuality only reveals that all individuals of the same species possess an essential universality, then this individuality as such and alone cannot be the binding middle term, but rather this individuality and another, and so on. If the inference of totality began with an assertoric judgment, because all particulars do not fall within perception and so actually become unfaithful to experience, then this error is now to be remedied. the experience of all particulars is to be truly made once the particularity is transformed into universality. One extreme is therefore a particular kind (P), which by mediating its instances (I), an essential universality (U) is to be predicated. The defect of this conclusion lies in the fact that, because the infinite progression of individuals is never complete, new instances that have not yet been investigated can still be discovered. And if perception has not confirmed what is essential to them, then conclusion remains problematic. This is the defect inherent in all experience: it substitutes multiplicity for totality and makes a comparative universality unconditional. 
 
@@ -224,19 +199,15 @@ If empirical logic makes the accusation against speculative logic that it seeks 
 
 #### Inference of Analogy
 
+![](uploads/images/Inference%20of%20Analogy.png)
+
 If the inference of analogy concludes with the third figure (P-U-I), then this middle universal is also an individual, namely the exclusive individual that is chosen to be representative of its kind. Here also, the conclusion cannot escape its own presupposition, especially if we trace the origin of the analogy from that of induction. For instance, if an unknown metal is supposed to have the same essential properties as the metals we know from experience, then this a priori assertion rests on the presupposition that the metals that we know have this property by virtue of their nature as metals, i.e. each individual metal is a priori bound to this property by nature. This assumption of the nature the subject matter, however, is precisely what is risky about reasoning by analogy. Despite this risk, induction and analogy can be, and often are, extremely useful in empirical science. Analogy complements induction, but analogy also requires induction for its validation.
 
-### Inference of Necessity
-
-```
-Categorical: I[P → U] → P[I → U] → U[I → P]
-
-Hypothetical: U[I → P] → I[U → P] → P[U → I] 
-
-Disjunctive:  U ( P ( I ) )
-```
+### Inferences of Necessity
 
 #### Categorical Inference
+
+![](uploads/images/Categorical%20Inference.png)
 
 In the categorical inference, the content of the middle term (P) is the category that connects the subject to its predicate. The categorical inference (I-P-U) has two categorical judgments as premises because the category forms the content of the individual (I is P) and the universal predicate is now unchallenged as the content of the category (P is U), whereas the inference analogy only presupposed this. As an example, if metals are conductive, and copper is a metal, then copper is conductive. The major premise is no longer arrived at by induction or analogy, as if unity or multiplicity were interchangible with totality, and that the conclusion it reaches is only more probable than others. Instead, the major premise follows from the definition of the category to which the property necessarily belongs. Even less is the middle term a contingent determination, as if it only were to contingently connect some universal quality to the subject, as in the inferences of existence. Individuality, particularity, and universality are only the formal determinates of one and the same substantial content, which is found in all three moments. But since the major premise is only formally included and not proven by the inference itself, this is the point at which the categorical inference can be denoted as an assertion. Because of this, this form of inference is still somewhat subjective, although it simultaneously possesses objectivity through its content. 
 
@@ -244,12 +215,15 @@ The inner necessity of the categorical conclusion in the middle term, which is o
 
 #### Hypothetical Inference
 
-Since the hypothetical inference is based on the second figure (U-I-P), once again individuality appears externally linked to universality. However, the difference is that the immediate existence of the individual and the necessity of the universal are now necessarily related to each other, and do not even need to be connected to imply each other. In the hypothetical inference, the immediate existence of the individual is posited as the middle term, which therefore has the necessity of the universal relation as its only self-evident consequence. The general logical form of this inference is
-"If A then B, A exists, therefore B exists."
+![](uploads/images/Hypothetical%20Inference.png)
+
+Since the hypothetical inference is based on the second figure (U-I-P), once again individuality appears externally linked to universality. However, the difference is that the immediate existence of the individual and the necessity of the universal are now necessarily related to each other, and do not even need to be connected to imply each other. In the hypothetical inference, the immediate existence of the individual is posited as the middle term, which therefore has the necessity of the universal relation as its only self-evident consequence. The general logical form of this inference is "If A then B, A exists, therefore B exists."
 
 If one says that the existence of one term in the hypothetical inference is the condition of the other, then the conditional and the conditional are identical since they both have the same content. So not only is the existence of one term simultaneously the existence of the other, but precisely for this reason it is also completely irrelevant with which one begins. Each side appears as ground and grounded, so the inference is unconditioned, necessarily partitioning itself into its moments of reality. Universality develops itself into particularity and individuality, forming the third and final inference of necessity, in which the absolute content of the category gives itself the forms of its existence. This is the disjunctive inference, the unity of the categorical and the hypothetical, since the immediate existence of the individual in the latter is now itself posited by the necessary relation of universality in the former.
 
 #### Disjunctive Inference
+
+![](uploads/images/Disjunctive%20Inference.png)
 
 In the disjunctive inference, we have reached the highest form of inference since the general form of the inference of necessity (P-U-I) is now present in this latter. The universal category (U) is divided into its particular kinds (P) as the predicate, and the individual instance (I) is related to one of these kinds. For instance, if the color of something can either be yellow, or blue, or red, and we know that it is not yellow or blue, then the color is red. If the minor premise is negative, then the conclusion is positive, and vice versa. After the color (U) has disjoined itself into the totality of its kinds in the major premise, it places itself in one of them in the minor premise, in order to then exclude the others from itself in the conclusion. What we have then, is the middle term U in which all three judgments of the inference refers back to itself: as the totality of its kinds (U), as the particularity of them (P), and as one of its kinds (I). In any case, the whole concept is always realized in all terms of the syllogism, for each moment of it always includes the other two. The middle term U contains all particular colors, and thus also each individual one. The particular color also includes the universal and the individual color, and the individual is a particular and the universal one. The necessity of the relation absolutely coincides with the individual's existence, so the disjunction is apodictic and no longer hypothetical.
 

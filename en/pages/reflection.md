@@ -2,7 +2,9 @@
 
 Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
-Essence is non-immediacy, the self-negation of being. It does not pass into something else, only posits the other as its other, but only through this positing does it become what it is, essence. The indifference of essence remains with itself in every externality because essence includes within itself the infinite determinations of being. Because of the infinite simplicity of essence, which contains all being only as an ideal within itself, being is also contained within it as non-being.
+![](uploads/images/Essence.png)
+
+Essence is non-immediacy, the self-negation of being. It does not pass into something else, but posits the other as its other, and only through this positing does it become what it is. The indifference of essence remains with itself in every externality because essence includes within itself the infinite determinations of being. Because of the infinite simplicity of essence, which contains all being only as an ideal within itself, being is also contained within it as non-being.
 
 The positing of being as inessential is how the essential shows itself. Since essence thereby reduces being to semblance, essence first breaks forth through this semblance. The activity of essence thus produces a semblance of itself. Semblance is the positing of being in essence. But since essence is also not a semblance, the essential is not the inessential, being still appears to essence as something presupposed to it. Since essence has become essence only through this negation of its presupposition, which it has posited for itself, it has only attained itself in this negation. This activity of returning from its negative back into itself, and only through this return to being, essence is reflection, just as light reflects back from the dark surface from which it shines. 
 
@@ -10,11 +12,7 @@ Firstly, that being is only a semblance of essence implies that essence and bein
 
 ## Identity
 
-```
-Essence ⧁ Semblance ⟹ Identity
-
-Essence ⧀ Semblance ⟹ Difference
-```
+![](uploads/images/Identity.png)
 
 Having reduced the many independent moments of being to dependencies, identity is this unity that presents itself in the dependent many. In the semblance of the many determinations, essence is what remains the unaltered through all alteration and unchangeable through eternal change. This does not mean, however, that identity exists outside of what it posits, for it is the very connection that unites all being. Therefore, identity cannot be an empty formalism, but is the very fullness of content itself presented in the form of simplicity. Since that which is posited by identity is the non-identical, identity is thus the identity of identity and non-identity, for what is identical to itself is not identical to another.
 
@@ -24,17 +22,7 @@ That everything is simultaneously identical to itself and identical to everythin
 
 ## Difference
 
-```
-Identity ⧁ Difference ⟹ Positive
-
-Identity ⧀ Difference ⟹ Negative
-
-Positive ⧁ Negative ⟹ Contradiction
-
-Positive ⧀ Negative ⟹ Contradiction
-
-Positive ⟲ Negative ⟹ Ground
-```
+![](uploads/images/Contradiction.png)
 
 Difference first appears as something independent of identity and therefore excluding it. The difference that is excluded from identity is revealed to be diversity. But the fact that its other, identity, is also posited in the difference makes it an opposition. The struggle between identity and difference to distinguish themselves from one another is contradiction. These moments of difference must now develop through its own dialectic.
 
@@ -64,30 +52,26 @@ While the formal understanding rightly demands that the many adjectives describi
 
 ## Ground
 
-```
-Ground ⧁ Grounded ⟹ Matter
-
-Ground ⧀ Grounded ⟹ Form
-
-Form ⟲ Matter ⟹ Content
-
-Content ⧁ Form ⟹ Essential Existence
-
-Content ⧀ Form ⟹ Appearance 
-```
+![](uploads/images/Ground.png)
 
 Ground, as the third category of essence which includes identity and difference, is an irrefutable characteristic of truth. According to the principle of emanation, everything is an emanation of a highest principle, which can also be called its foundation. All reality would then follow as a consequence of this foundation. But if we distinguish the world from its foundation in this way, then both the foundation and the world seem to be deficient in that it implies the foundation is transcendental to the world and thus cannot be deduced directly from it or vice versa. The foundation identifies the totality of being, but reduces everything to it, whereas the world is the very unfolding of multiplicity, but remains fragmented without anything to identify it. Only the comprehensive unity of ground is capable of unifying all these differences out of itself.
 
-Ground, like the other categories of essence, also has its own law of thought, the principle of sufficient reason. The formal understanding has no other option but to accept this law of thought to be completely in accordance with reason. For the proposition means nothing more than that all distinctions explicated in beings has their ground or reason for being. To even call it sufficient reason is somewhat redundant because sufficiency is already a quality of reason. Yet ground cannot be considered in isolation from its grounded.
+Ground, like the other categories of essence, also has its own law of thought, the principle of sufficient reason. The formal understanding has no other option but to accept this law of thought to be completely in accordance with reason. For the proposition means nothing more than that all distinctions explicated in beings has their ground or reason for being. To even call it sufficient reason is somewhat redundant because sufficiency is already a quality of reason. Yet ground cannot be considered in isolation from what it grounds.
 
-### Basis
+### Basis (Matter)
+
+![](uploads/images/The%20Matter.png)
 
 If these moments are understood one-sidedly in isolation from each other, then ground would certainly be reduced to a form of understanding previously found erased from it. Ground, as the identity of difference, is essentially the indeterminate ground or foundation of being, its basis. It is still highly one-sided to want to make the existing foundation the only ground of the world, as e.g. a materialist metaphysics would argue. However, one does not see how difference could be derived from an empty foundational claim, regardless whether it begins with ideas or matter or whatever else. In fact, an actual ground is not empty at all, since identity is only an identity in the positing of difference. Therefore, all difference is already contained in the basis for something, even in cases where ground and grounded are indistinguishable. Likewise, the basis is capable of generating all of these differences from itself. And since ground in general is the activity of grounding being, the basis is not only capable of positing differences from itself, but actually has within itself all the determinations of contradiction.
 
 ### Form
 
-The determinateness of the basis is its form, the formal ground. To designate ground as the activity of grounding being activity cannot be reduced to an indeterminate identity, for this is rather the passive material in which only form, as the active element, posits the differences. If the matter is subject to change, then its form is what drives it to change, through which it passes from one difference to another. But since each form excludes the other, in that they contradict each other in the basis, it is the negative moment of ground. In other words, this brings the new perspective that things are what they are only through their absence, since the positing of one form is the absence of another. As the active ground, however, form is just as much the carrier of differences, and is the entire foundation itself that includes the forms. But if form, since it has matter in itself, can no more be thought of as being beyond matter than its basis, then it cannot be thought of without them. It is just as one-sided to make form the sole ground of things as it is to make matter. Because of this inseparability of form and matter, we have only materialized form or formed matter. This unity of the moments of ground is content.
+![](uploads/images/Form.png)
+
+The determinateness of the basis is its form, the formal ground. To designate ground as the activity of grounding being cannot be reduced to an indeterminate identity, for this is the passive material in which only form, as the active element, posits the differences. If the matter is subject to change, then its form is what drives it to change, through which it passes from one difference to another. But since each form excludes the other, in that they contradict each other in the basis, it is the negative moment of ground. In other words, this brings the new perspective that things are what they are only through their absence, since the positing of one form is the absence of another. As the active ground, however, form is just as much the carrier of differences, and is the entire foundation itself that includes the forms. But if form, since it has matter in itself, can no more be thought of as being beyond matter than its basis, then it cannot be thought of without them. It is just as one-sided to make form the sole ground of things as it is to make matter. Because of this inseparability of form and matter, we have only materialized form or formed matter. The unity of opposed moments of ground is content.
 
 ### Content
+
+![](uploads/images/Content.png)
 
 If matter and form present both present themselves as ground in the content, we cannot consider the content that appears from their connection to be the grounded. For this totality is presupposed by its consequence, or stated differently, the entire content of the consequence is already present in the ground. The one and the same content that appears in the form of the grounded also appears in the form of the ground. So the ground and grounded have themselves become the form of the content. The content is indifferent to the ground-relation, and the essential to this form. If essence is preferred to form, because it only in the determination of form that essence come into its own, then the content, because it connects matter and form, is the highest. What actually matters in philosophy is content and the knowledge thereof. The question of why gives way to the question of what because the what implies why in the same manner that the content implies its ground within itself. This what, the content-filled essence that returned from the form of ground to its existence, is the appearance.

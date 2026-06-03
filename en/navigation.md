@@ -88,8 +88,15 @@
 
 [Spirit]()
 
-  * [Art]()
-  * [Religion]()
+  * # Art
+  * [Aesthetics](pages/aesthetics.md)
+  * [Art](pages/art.md)
+  * [The Arts](pages/thearts.md)
+  * # Religion
+  * [Paterology](pages/paterology.md)
+  * [Christology](pages/christology.md)
+  * [Pneumatology](pages/pneumatology.md)
+  * # Philosophy
   * [Philosophy]()
 
 

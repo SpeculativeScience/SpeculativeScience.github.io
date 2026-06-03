@@ -2,39 +2,29 @@
 
 Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
-In actuality, being reveals itself again, but now for fourth time. This time, however, it is neither indeterminate (pure being), nor immediately determinate (existence), nor even in its existence mediated by essence. Being is now a finitude arising from the mediation of essence, which again assumes the appearance of immediacy, but now the positedness of being is now its self-positing, so that mediation through itself has returned to immediacy. Actuality has its essence in itself, and conversely, it is essence that includes its existence within itself and posits it from itself.
+![](uploads/images/Actuality.png)
+
+In actuality, being reveals itself again, but now for a fourth time. This time, however, it is neither indeterminate (pure being), nor immediately determinate (presence), nor even in its existence mediated by essence. Being is now a finitude arising from the mediation of essence, which again assumes the appearance of immediacy, but now its positedness is now its self-positing such that mediation has returned to immediacy through itself. Actuality has its essence in-itself, and conversely, it is essence that includes its existence within itself and posits it from itself.
 
 The division of actuality understood in its immediacy first makes the categories from which it arose, the inner and the outer, into moments of its own being, opposing itself as inner and outer, in order to arrive from this dichotomy of itself at the unity of these moments in modality. Since each aspect has then become the whole, within reality there again stand two totalities in relation to one another, each of which includes within itself the two opposite moments of reality in the relation of necessity. Finally, these two totalities merge again into one unity, which now allows its moments to emerge freely from itself in the Absolute.
 
 ## Modality
 
-```
-Inner ⟲ Outer 
-
-Possibility ( Inner ⟲ ~~Outer~~ )
-
-Contingency ( ~~Inner~~ ⟲ Outer )
-
-Condition ⇄ Possibility ( Inner ⟲ Outer ) 
-
-Conditions ⇄ Possibilities ( Inner ⟲ Outer ) 
-
-Conditions ( Possibilities ( Inner ⟲ Outer ) ) 
-
-Necessity ⧁ Conditions ( Possibility ( Inner ⟲ Outer ) ) 
-```
-
 The content of reality in the form of the inner is possibility, the same content dispersed into the form of the outer is contingency, whereas the unity of the outer through the inner as a coherent whole is necessity.
 
 ### Possibility
 
+![](uploads/images/Possibility.png)
+
 Because possibility encompasses the entire content of reality, it is first of all the force that requires nothing external to generate the actual from within itself. This self-origination of force is the inner of the actual endowed with the power of ground. Possibility is never something merely internal since it acquires reality from within itself, without external assistance, and so is actual by definition. Possibility is therefore not prior to reality, because if it were, the actual would not have to follow from it. However, what does not have to be actual are the finite possibilities within this standpoint itself.
 
-But secondly, if we consider the side of the outer that opposes the inner possibility in-itself, it is in the nature of the outer its moments of content appear separate from one another. When reality thus appears fragmented into different existences, such an isolated existent no longer originates within itself, but requires another existent through which it is first posited, and this in turn requires another, and so on. These individual fragments of reality that exist only under the condition that there is a genuine alternative are possibilities. However, the category of possibility should not be confused with the formal understanding of possibility, for this approach restricts the analysis of possibility to the one and only existent separated from the rest. If we were to treat possibility in this way then we would have already abandoned the standpoint of reality for the standpoint of common consciousness or perception. The possibility of the object of consciousness would turn into another object existing outside of it once examined, which would turn into another object existing outside of it, etc.
+But secondly, if we consider the side of the outer that opposes the inner possibility in-itself, it is in the nature of the outer its moments of content appear separate from one another. When reality thus appears fragmented into different existences, such an isolated existent no longer originates within itself, but requires another existent through which it is first posited, and this in turn requires another, and so on. These individual fragments of reality exist only under the condition that there is a genuine alternative for it. However, the category of possibility should not be confused with the formal understanding of possibility, for this approach restricts the analysis of possibility to the one and only existent separated from the rest. If we were to treat possibility in this way, then we would have already abandoned the standpoint of reality for the standpoint of common consciousness or perception. The possibility of the object of consciousness would turn into another object existing outside of it once examined, which would turn into another object existing outside of it, etc.
 
 Even if the possible is that which appears from the circle of its external conditions, it nevertheless always retains the character of the inner and its identity as the essential. For what is always internal to a possibility possible is its content. The content of a house, for example, is the plan for building it, the materials used to build it, and the laboring activity of building it. The totality of this content is the house itself, but as long as this content exists only in the imagination of the builder, it has its reality solely in other existences, its conditions. The content internal to the house is therefore also external to it. Though this purely internal content, separated from its relationship to the external world, does not contradict itself as long as it does not contradict the conditions that make it what it is, i.e. its ground. Therefore, the possible is been defined as that which, by the principle of identity (A = A), does not contradict itself. But according to this, then everything that is conceivable is also possible as long as it exists in the imagination. A horse that has wings is easy to imagine, and is therefore also possible in the imagination, for one only needs to imagine the trust and lift required for the pegasus to take flight and what would enable it to do so. However, if a specific content of the imagination is brought into contact with another specific content of the external world, it can contradict its external conditions and thus become impossible. It is therefore impossible for a horse to have wings because the winged quadruped conceived would not be a horse. And even if it were possible for pegasi to exist, they would not be able to fly because the thrust and lift required for a pegasus to take flight neither exists nor could even be conceived, as this would contradict the concept of flight. Even something that is possible and conceivable can become impossible and unconceivable if its enabling conditions are absent or have ceased to exist. The possible is therefore always possible if conceived of as being identical with itself. However, possible becomes impossible as soon as it is related to a contradictory content outside of it.
 
 ### Contingency
+
+![](uploads/images/Contingency.png)
 
 Since the possible can either be or not be, it is a contingency. The contingent can just as easily be as not be, but it precisely is. Contingency does not, however, cease to be a possibility. For it can, at any moment, transition from the state of being to that of non-being. The contingent is therefore identical to the possible, they have the same content, differing only in the form of the inner or outer, of non-being or being. For if the possible includes the total content of reality in the form of the internal, then contingency includes it in the form of the external. The opposition between possibility and contingency is therefore only an illusion destined to dissolve itself, since it appears on the one hand as potential, and on the other hand as actuality, both of which are interconnected with each other. The building materials have the potential to become a house, as in they make possible the construction of an actual house. Although the non-being of the house, they are nevertheless simultaneously being, namely, its external conditions. From this, the being of the conditions passes over into non-being so that the non-being of the house can pass over into being. The architect's design, the mason's labor, etc. are also conditions of the house, but they are external to the house as well as to its other conditions. Activity is thus the third moment that interposes itself between the house and its conditions. And these conditions, as the material, become the possibility of the house, while the house, through the formative activity of construction, acquires contingent existence. Matter, activity, and labor are all contingent with respect to one another because they each represent only a determinate content, which is something finite.
 
@@ -44,6 +34,8 @@ Material and labor are distinguished only in potentiality, as two things externa
 
 ### Necessity
 
+![](uploads/images/Necessity.png)
+
 Necessity is indeed the already posited unity of the possible and the contingent, of the inner and the outer that appear as two separate entities. The apparent independence of each side makes it difficult to recognize the unity of necessity. However, under the apparent confusion presented by contingency, the hidden activity of necessity restlessly moves forward. Contingencies are emanations of possible conditions and conditioned possibilities, the linear connection of which is the necessary itself. The contingency in the human will, for instance, is capable of changing the content of possibility to a certain degree, but is incapable of determining what is already self-determined in content. This content, which brings possible and contingent things into action from within, is the necessary. But if, in the relationship of one contingent condition to another, where the action appears to have come from outside, then the result also becomes necessary. After all, if all the conditions of a thing are given, then the thing necessarily exists. This necessity, however, is only a conditional, external necessity, which could have been otherwise (i.e. contingent) if its conditions were not present.
 
 Whether something is possible and contingent depends on the content, namely if it belongs only to the mode of the total content and can thereby be one way or the other. The boundary between internal and external necessity can often be difficult to draw. Whatever follows from the law ​​of appearance is certainly established by inner necessity. The simple moments of the law are not contingent upon one another, but are the necessary terms of the law itself, even if the law also accounts for the unnecessary. The perturbations of the planets, for example, follows directly from astrodynamic principles, but the fact that there are specific cases in which the principle is modified in one way or another falls under the perview of external necessity and is therefore contingent. If it appears doubtful whether existence flows from the inner necessity of the law or only presents the contingent mode of its existence as something incidental, this does not always arise from the inadequacy of insight into the ground of things, but essentially from the limitations of the things themselves. In any case, however, external necessity is at the service of internal necessity. 
@@ -52,19 +44,11 @@ If the question is raised which of the three categories of modality is most suit
 
 ## Mode of Necessity
 
-```
-Substance ⧁ Accidentality ( Possibilities ( Inner ⟲ Outer ) ) 
-
-Cause ⧀ Effect ( Possibilities ( Inner ⟲ Outer ) )
-
-Cause ⧀ Effect ( Possibilities ( Inner ⟲ Outer ) )
-
-One Cause ⟲ Effects ( Possibilities ( Inner ⟲ Outer ) ) 
-```
-
 A mode of necessity has necessity and contingency as its moments. Firstly, the necessary, as the circle of circumstances that includes all possible conditions and conditioned possibilities, is substance, and the contingent that arises from it are its accidents. Secondly, from the relation of subsistence, the accidents are shown to be be the substance of substance, and so each of the two substances are related to each other as active and passive in the relation of causality. Lastly, since each substance is simultaneously active and passive, this gives the relation of reciprocity.
 
 ### Subsistence
+
+![](uploads/images/Subsistence.png)
 
 Because the necessary conditions itself by conditioning possibility and contingency, it is the content itself that subsists through them, which is substance. However, substance differs from the determinism of external necessity in that it is not simply a series of conditions but is also the very activity of generating the series of conditions within itself. Thus, substance is the immanent power that produces all contingency from within itself, thereby abolishing any remnant of transcendence that could not provide a ground for the contingent. Because substance asserts itself in the contingent, the first condition of freedom appears in it. And when truth is conceived as substance, it already appears as freedom, without thereby ceasing to be the necessary essence. From this it is clear that, even if the truth cannot be arbitrary, the contingent is required for the truth to determining itself as necessary.
 
@@ -74,6 +58,8 @@ Substance is the secret of the unchanging essence in the changing appearance. Ho
 
 ### Causality
 
+![](uploads/images/Causality.png)
+
 The relation of causality is a relation of finitude because a multiplicity of substances are now externally related to one another. It is the same fragmented reality spoken of earlier, but which has now itself passed from the nature of contingency to that of substantiality. However, this substantiality cannot completely shed the character of contingency. For even if something accidental assumes the character of an active substance, this substantiality is nevertheless accidental to it, and this is even more the case for the substance against which it is active, which thereby becomes a passive substance. The active substance that acts on the passive substance is the cause, and the passive substance that is acted upon by the active substance is the effect. The cause is indeed the original thing, in contrast to the effect,as the derived one. But since the cause also remains something derived, albeit to a lesser degree than the effect, the activity of causality of is not their substance itself, but an accident imparted to them by substance itself.
 
 Every cause is also an effect, i.e., has a new cause: this in turn another, and so on, which results in an infinite regress of causes. Conversely, every effect is also a cause, thus has a new effect: this effect in turn has an effect, and so on, which gives an infinite progression of effects. Causality thus represents a chain of causes and effects that is infinite in both directions, but which nevertheless does not cease to be a series of pure finitenesses: firstly in terms of content, which is always specific in each individual ring of the chain, and secondly in terms of form, because cause and effect are indeed identical, but only in different respects. Every cause is indeed an effect, but only if it has a cause before it, and every effect is a cause, but only if it has an effect after it. The cause and effect of one and the same substance therefore naturally fall apart into two substances that lie in opposite directions.
@@ -82,19 +68,14 @@ The activity that passes from cause to effect does not simply make the effect th
 
 ### Reciprocity
 
+![](uploads/images/Reciprocity.png)
+
 In reciprocity, the external relationship of many substances to each other is only an illusion. For if a cause is made into a cause by an effect only because of what results from the effect, then the cause relates back to itself in its effect. The two substances of cause and effect related to each other are in fact one, since they have one and the same efficacy, which constitutes the identity of content and form in both. Now since the same relationship occurs with every substance preceding in infinite regress and succeeding in infinite progress, all substance interacts with itself. Thus we have only one infinite substance, which by positing the finite substances as its effects, abolishes their originality precisely as its sole cause. In other words, the one infinite substance actively creates the finite substances is the Absolute, which only now has been logically deduced from its place as the cause and effect of itself. But because the appearance of independent realities is still present in reciprocity, it is also not yet suitable to be the highest category of the truth. Reciprocity is not yet the Absolute, though it stands the closest to it. Each side of the reciprocal relation, despite its dependence, still retains certain independence from its other. There can be only one reality, not two. Reality originates from itself by positing itself as its result and is the thus only reality.
 
 ## The Absolute
 
-```
-One Cause ⟹ Absolute
 
-Effects ⟹ Attributes
-
-Possibilities ⟹ Modes
-
-Absolute ( Attributes ( Modes ( Inner ⟲ Outer ) ) ) ⟹ The Concept
-```
+![](uploads/images/The%20Absolute.png)
 
 Having reached the category of the Absolute, we seem to have also reached the highest category of truth in general. For what could be more absolute than the Absolute itself? Necessity has now recognized all its members as moments of itself and has thus already raised itself to the concept of freedom. Nevertheless, in this necessity of the Absolute, all its moments appear too dependent on it for each to have also raised themselves to the independence of the Absolute itself. This will remain a deficiency until it is resolved by the Concept. Though in order to actually get there, we have to see how the Absolute explains itself, appears in all attributes of it as the series of its own relations, and how the instantiations of attributes are modes or modifications of the appearance of the Absolute.
 
@@ -106,6 +87,6 @@ Just as all immediate being returned to indifference, so too does all immediate 
 
 Finite beings, in revealing the Absolute, can only be grasped as relations of the Absolute to itself. If the exposition of the Absolute is absolute, then the finite beings into which it exposes itself are relative to the absolute. Every relation of necessity falls within the relativity of finite beings: the relation of substantiality, causality, and reciprocity. In all finite beings, the Absolute relates only strictly to itself, as the absolute being. Therefore, as accidental relations of the Absolute, all finite beings are reduced to instantiations of the absolute's existence. These ultimate revelations of the Absolute in which it preserves itself are now its modes.
 
-### Mode
+### Modes
 
 In the mode, the finite being is posited as what it is in itself, as something only relative and dependent on the Absolute. The mode is therefore the accident of the accidental. Perishability perishes in the mode, in order to see that only the Absolute itself remains after its self-exposition. The Absolute is indeed the completion of all being as essence, but at the same time only in the way that essence is all being, i.e. essential only in the form of the negation of everything inessential. Although the Absolute, attribute, and mode taken together are the whole unconditioned, these three moments are not unified through the return of the mode to the Absolute, but only through its total process of development. Since in truth the Absolute is only the Absolute in its complete exposition, it only becomes truly Absolute in its attributes and modes. The ultimate finitude of the Absolute in the mode is therefore only the return of the Absolute into itself. With this, however, the mode ceases to be merely a mode of being of the Absolute. The attributes and modes are the Absolute itself because they are necessary for the absolute's own act of self-definition. This return of movement into itself is the Concept, which because it appears in each of its moments as the whole, it also allows each moment the freedom to determine themselves, whereas the Absolute only expresses its own abstract necessity.
