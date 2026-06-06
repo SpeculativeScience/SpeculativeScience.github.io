@@ -25,8 +25,9 @@
   * [The Object of Philosophy](pages/content.md)
   * [The Method of Philosophy](pages/method.md)
 
-[Logic](pages/logic.md)
+[Logic]()
 
+  * [Logic](pages/logic.md)
   * # Being
   * [Quality](pages/quality.md)
   * [Quantity](pages/quantity.md)
