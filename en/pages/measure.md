@@ -1,6 +1,6 @@
 # Measure
 
-Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 ![](uploads/images/Measure.png)
 
@@ -9,7 +9,6 @@ As being determined in and for itself, which has the aspect of its existence in 
 ## Measurement
 
 ![](uploads/images/Measure%20Relation.png)
-
 As self-referential externality, which at the same time bears this externality within itself, measure is a quantitative quality. While quality determines quantity, thus negating its externality, it also simultaneously leaves it free, since the quality does not completely determine it. The quantity determined by quality is the measurement or rule, whereas the quantity left free is the remainder or the exception to the rule. At first glance, measure appears to be something purely quantitative due to the role that quantity plays in measurement. However, units of length, such as feet or inches, are originally qualitative determinates, namely a human foot, the joint of the thumb, etc. Such qualities usually have a length that constitutes the rule, although variations in this length also occur, which must be considered exceptions. 
 
 However, even variability is not merely an exception since the rule is not a completely fixed quantity, but allows the indifference of quantity a margin of error within certain limits. Hence it also happens that among different choices of measure that the quality accepted as the rule also varies quantitatively, even if the margin of error is insignificant. Furthermore, it is the margins that determine the rule and only when this margin is exceeded does the exception begin.
@@ -34,7 +33,6 @@ After quantity externalizes a new quality up to a certain degree of its gradual 
 ## Indifference
 
 ![](uploads/images/Measureless.png)
-
 The indeterminacy of the measureless is, once again, only a one-sidedness. But the measureless is not merely indeterminate in that it contains all determinations of being within itself. Since every inner determination appears in the form of a merely external difference, we have the indifference of all these aspects of being, they are all sublated and have become dependent moments. At the same time, however, they remain firmly distinct from each other as independent moments. This contradiction can only be resolved through the concept of true infinity, where determinations are independent from each other while being dependent emanations of the infinite.
 
 This ideality is no longer an ideal determination, as in measure, but posits all being as ideal, so that it is no longer contained in it immediately, but only as something real insofar as it is posited by the self-determination of the infinite. This infinite ideality is essence.

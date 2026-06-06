@@ -1,6 +1,6 @@
 # The Method of Philosophy
 
-Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 Having thoroughly grasped the object of philosophy, we must now also examine more closely its method, i.e. what it means to *do* philosophy. Just as the purpose of philosophy aims to bridge the divide between our inner self and the external world, leads us to *knowledge* as the object of philosophy, so too does the object of philosophy now lead us to its *method*, for the activity of this very thought, which thus rediscovers itself in the external world, also constitutes the very means by which we acquire knowledge. The purpose, object, and method of philosophy are, therefore, the one and the same absolutely free activity of thought. Thus, the distinction of philosophy from theology and the empirical sciences will become clear to us from yet another perspective, namely, that of its origin.
 

@@ -1,13 +1,12 @@
 # Appearance
 
-Note: This webpage is a direct translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
+Note: This webpage is a translation of Karl Ludwig Michelet's *Encyclopedia Logic* (1876) 
 
 Because essence is what appears, all its content is contained and presented in the appearance. But since the content of essence has become an appearance, the appearance becomes the very presentation of essence within itself. However, essence reasserts itself against the existence it stands behind, positing it as only being its appearance, so essence and appearance have excluded themselves from each other. Finally, the essence behind the appearance enters into the appearance, wherein essence and appearance become moments of the essential relation.
 
 ## Existence
 
 ![](uploads/images/Existence.png)
-
 Existence is the technically the third mode of being encountered so far. At first, being was entirely indeterminate and immediate. In presence, being did not lose its immediacy, but it became determinate. Like presence, existence is also determinate, but its immediacy is restored through the mediation of essence. We cannot attribute to existence the mere being of a determinacy since it determines itself out of the indeterminate and thereby contains its essence within itself. However, the prior contradictions of essence will eventually reappear in existence and entangle it in contradictions.
 
 ### The Thing

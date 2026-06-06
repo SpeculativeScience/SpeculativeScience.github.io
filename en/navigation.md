@@ -25,7 +25,7 @@
   * [The Object of Philosophy](pages/content.md)
   * [The Method of Philosophy](pages/method.md)
 
-[Logic]()
+[Logic](pages/logic.md)
 
   * # Being
   * [Quality](pages/quality.md)
@@ -52,7 +52,7 @@
   * [Chemistry](pages/chemistry.md)
   * # Organics
   * [Geology](pages/geology.md)
-  * [Cytology](pages/cytology.md)
+  * [Botany](pages/botany.md)
   * [Zoology](pages/zoology.md)
 
 [Psychology]()
@@ -97,7 +97,10 @@
   * [Christology](pages/christology.md)
   * [Pneumatology](pages/pneumatology.md)
   * # Philosophy
-  * [Philosophy]()
+  * [Ancient](pages/ancient.md)
+  * [Modern](pages/modern.md)
+  * [Speculative](pages/speculative.md)
+
 
 
 [gimmick:themechooser](Themes)
